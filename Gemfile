@@ -63,9 +63,9 @@ gem 'rails_12factor', group: :production
 
 # for rails_admin
 #gem 'remotipart', github: 'mshibuya/remotipart'
-#gem 'rails_admin', '>= 1.0.0.rc'
+gem 'rails_admin', '>= 1.0.0.rc'
 
-gem 'plissken'
+#gem 'plissken'
 
 gem 'graphql'
 gem 'graphiql-rails'
