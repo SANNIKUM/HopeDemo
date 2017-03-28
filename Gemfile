@@ -62,7 +62,7 @@ gem 'rack-cors', :require => 'rack/cors'
 gem 'rails_12factor', group: :production
 
 # for rails_admin
-gem 'remotipart', github: 'mshibuya/remotipart'
+#gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', '>= 1.0.0.rc'
 
 gem 'plissken'
