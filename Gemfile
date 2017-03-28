@@ -70,7 +70,7 @@ gem 'plissken'
 gem 'graphql'
 gem 'graphiql-rails'
 
-ruby "2.3.3"
+ruby "2.3.1"
 
 gem 'mini_racer', platforms: :ruby
 
