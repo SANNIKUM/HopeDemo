@@ -1,0 +1,80 @@
+{
+  "sfLocation": {
+    "formField": "location",
+    "fieldType": "string",
+    "fieldLabel": "Location",
+    "uiItemProperties": {
+      "rank": 1,
+      "uiItemType": "textInput",
+      "inputType": "text",
+      "formFieldSectionType": "textInput",
+      "placeholder": "Location"
+    }
+  },
+  "sfLocationIsPark": {
+    "formField": "locationIsPark",
+    "fieldType": "option",
+    "fieldLabel": "Location: Park?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "uiItemProperties": {
+      "uiItemType": "optionField",
+      "formFieldSectionType": "select"
+    }
+  },
+  "isFamily": {
+    "formField": "isFamily",
+    "fieldType": "option",
+    "fieldLabel": "Family?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "uiItemProperties": {
+      "uiItemType": "optionField",
+      "formFieldSectionType": "select"
+    }
+  },
+  "position": {
+    "formField": "position",
+    "fieldType": "option",
+    "fieldLabel": "Position",
+    "options": [
+      "Sitting",
+      "Standing",
+      "Walking",
+      "Lying down"
+    ],
+    "uiItemProperties": {
+      "uiItemType": "optionField",
+      "formFieldSectionType": "select"
+    }
+  },
+  "sfAge": {
+    "formField": "sfAge",
+    "fieldType": "option",
+    "fieldLabel": "Age",
+    "options": [
+      "Under 18",
+      "18 - 24",
+      "25+"
+    ],
+    "uiItemProperties": {
+      "uiItemType": "optionField",
+      "formFieldSectionType": "select"
+    }
+  },
+  "sfNotes": {
+    "formField": "notes",
+    "fieldType": "text",
+    "fieldLabel": "Notes",
+    "uiItemProperties": {
+      "uiItemType": "multilineTextInput",
+      "formFieldSectionType": "textInput",
+      "answerFormat": "multiline",
+      "placeholder": "Additional Notes"
+    }
+  }
+}

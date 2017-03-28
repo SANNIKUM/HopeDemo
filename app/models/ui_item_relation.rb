@@ -1,0 +1,2 @@
+class UiItemRelation < ApplicationRecord
+end

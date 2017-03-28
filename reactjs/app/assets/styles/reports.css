@@ -1,0 +1,31 @@
+
+.reports-content
+{
+    min-height: 600px;
+}
+.reports-download-excel{
+    padding: 200px 30px 0px 30px;
+}
+.reports-download-excel .donwload-button{
+    color: #fff;
+    border: 0px;
+    padding: 7px 15px;
+    background: #01acac;
+    border-radius: 4px;
+    min-width: 102px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.reports-download-excel .donwload-button:hover{
+    color: #000;
+}
+.reports-download-excel .downloadicon{
+    margin-left: 10px;
+}
+.reports-notification{
+    padding: 150px 20px;
+    color: #ccc;
+}
+.minify-reports-button{
+    background: #1a2229!important;
+}

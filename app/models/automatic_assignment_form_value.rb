@@ -1,0 +1,2 @@
+class AutomaticAssignmentFormValue < ApplicationRecord
+end

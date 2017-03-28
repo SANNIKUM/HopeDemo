@@ -1,0 +1,513 @@
+#mapviewBody {
+    width: 100%;
+    height: 700px;
+    -webkit-transition: height 0.3s ease-out;
+    -moz-transition: height 0.3s ease-out;
+    -o-transition: height 0.3s ease-out;
+    transition: height 0.3s ease-out;
+}
+
+.labelElement {
+    font-size: 12px;
+    color: #b6c3c9;
+    text-align: center;
+}
+
+.routeCompleted {
+    font-size: 12px;
+    color: #b6c3c9;
+    text-align: center;
+    margin: 4%;
+}
+
+.progressBar {
+    text-align: center;
+}
+
+.labelElementBig {
+    font-size: 36px !important;
+    color: #ffffff;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.halfOfParent {
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+.divContaining2Divs {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px
+}
+
+.teams-progress-container {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 11%;
+    float: left;
+    width: 100%;
+    color: #fff;
+    background: #1a2229;
+    padding-bottom: 5px;
+}
+
+.teamFinished {
+    float: left;
+    margin-bottom: 3%;
+}
+
+.teamFinishedNumber {
+    float: right;
+    margin-bottom: 3%;
+}
+
+.team-progress {
+    margin-bottom: 5%;
+}
+
+.route-progress-component-container {
+    margin-top: 8%;
+}
+
+.dash-filter-table {
+    /*width: 100%;*/
+    width: 16%;
+}
+
+.filter-by-sectors {
+    width: 20%;
+    padding-right: 30px;
+}
+
+.highcharts-tracker rect {
+    width: 10px;
+}
+
+.chartText {
+    position: absolute;
+    top: -27px;
+    text-align: center;
+    left: -30px;
+}
+
+.percentLabel {
+    font-size: 36px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.progressLabel {
+    font-size: 17px;
+    fill: #ffffff;
+    letter-spacing: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.routeList-table {
+    width: 100%;
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+
+.routeList-table thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 10px;
+    text-align: left;
+    width: 10%;
+}
+
+.routeList-table tbody td {
+    /*border: solid 1px #DDEEEE;*/
+    color: #242a30;
+    padding: 1%;
+    width: 15%;
+}
+
+.routeList-table-rounded {
+    border: none;
+}
+
+.routeList-table-rounded thead th {
+    background-color: #242a30;
+    border: none;
+    color: #DDEEEE;
+}
+
+.routeList-table-rounded thead th:first-child {
+    border-radius: 0px 0 0 0;
+    width: 10%;
+}
+
+.routeList-table-rounded thead th:last-child {
+    border-radius: 0 0px 0 0;
+}
+
+.routeList-table-rounded tbody td {
+    border-top: solid 1px #eaeaea;
+}
+
+.routeList-table-rounded tbody tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+    border: none;
+}
+
+.routeList-table-rounded tbody tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+    border: none;
+}
+
+.map-refresh-control {
+    position: absolute;
+    right: 0px;
+    top: -5px;
+    /*font-style: italic;*/
+    width: 160px;
+}
+
+.map-refresh-control label.updated-on-label {
+    float: left;
+    width: 100px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.map-refresh-control label.updated-on-value {
+    float: left;
+    width: 55px;
+}
+
+.team-red-bordered {
+    border-radius: 50%;
+    background-color: #000;
+    border: 6px solid red;
+    color: #fff;
+    text-align: center;
+    font-size: 9px!important;
+    padding-top: 5px!important;
+    margin-top: -40px;
+    margin-left: -20px;
+}
+
+.team-green-bordered {
+    border-radius: 50%;
+    background-color: #000;
+    border: 6px solid green;
+    color: #fff;
+    text-align: center;
+    font-size: 9px!important;
+    padding-top: 5px!important;
+    margin-top: -40px;
+    margin-left: -20px;
+}
+
+.team-yellow-bordered {
+    border-radius: 50%;
+    background-color: #000;
+    border: 6px solid yellow;
+    color: #fff;
+    text-align: center;
+    font-size: 9px!important;
+    padding-top: 5px!important;
+    margin-top: -40px;
+    margin-left: -20px;
+}
+
+.team-icon-map-outer-1 {
+    background-color: #f0f0f0;
+    width: 66px;
+    height: 66px;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    background: transparent;
+}
+
+.team-icon-map-outer-1:hover {
+    background: #ccc;
+    opacity: 0.7;
+}
+
+.team-icon-map-inner-1 {
+    background-color: #fff;
+    top: 24%;
+    left: 24%;
+    width: 52%;
+    height: 52%;
+    position: absolute;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.team-icon-map-inner-1:hover {
+    opacity: 0.8;
+}
+
+.team-icon-map-inner-2 {
+    background-color: #000;
+    top: 30%;
+    left: 30%;
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    border: 1px solid #000;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    color: #fff;
+    line-height: 26px;
+}
+
+.team-markers-list {
+    width: 0px!important;
+    height: 0px!important;
+    margin-left: -33px;
+    margin-top: -33px;
+}
+
+.right-side-navigator>a {
+    border-top: 2px solid transparent;
+}
+
+.right-side-navigator>a:hover {
+    border-top: 2px solid #15ADAC;
+}
+
+.data-view-list {
+    width: 100%;
+    padding: 0px 0px;
+    min-height: 100%;
+    background-color: #D9E0E7;
+    float: left;
+}
+
+.data-view-list .data-view-list-item {
+    float: left;
+    padding: 10px 5px 3px 5px;
+    width: 19.3%;
+    margin-right: 8px;
+    margin-top: 20px;
+}
+
+.data-view-list .data-view-list-item:last-child {
+    margin-right: 0px;
+}
+
+.data-list-top {
+    padding: 10px 10px 5px 10px;
+    float: left;
+    width: 100%;
+    background-color: #242a30;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: relative;
+}
+
+.data-list-top .data-list-header {
+    color: #fff;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+.data-list-bottom {
+    padding: 10px 10px;
+    float: left;
+    width: 100%;
+    background-color: #242a30;
+    /*border: 1px solid #ccc;*/
+    border-radius: 5px;
+    height: 700px;
+    overflow-y: auto;
+}
+
+.stats-left {
+    width: 50%;
+    float: left;
+}
+
+.stats-right {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    z-index: 111;
+    top: 0px;
+    line-height: 17px;
+}
+
+.stats-list-item label {
+    color: #fff;
+    font-size: 10px;
+}
+
+.stats-list-item {
+    width: 100%;
+}
+
+.data-list-top-bottom>label {
+    color: #fff;
+    font-size: 10px;
+}
+
+.data-list-top-bottom {
+    float: left;
+    width: 100%;
+    margin: 13px 0px 0px 0px;
+}
+
+.details-right-arrow {
+    font-size: 17px;
+    vertical-align: top;
+}
+
+.surverys-count {
+    color: #358ded;
+    font-weight: bold;
+    font-size: 11px;
+    vertical-align: top;
+    margin-left: 3px;
+}
+
+.margin-top-3px {
+    margin-top: -3px;
+}
+
+.percentLabel-dataview {
+    font-size: 70px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    text-align: end;
+}
+
+.backgroundStrokeClass {
+    fill: #7f8489;
+}
+
+.progressStrokeClassInProgressRoute {
+    fill: #f7b047;
+}
+
+.progressStrokeClassCompletedRoute {
+    fill: #01ABAB;
+}
+
+.zone-stats {
+    margin: 10px 0px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+label.data-list-site-header {
+    color: #fff;
+    font-size: 11px;
+    text-transform: capitalize;
+}
+
+.data-list-routes {
+    width: 100%;
+    font-size: 10px;
+}
+
+.data-list-route-name {
+    text-align: left;
+    /*width: 10%;*/
+    text-transform: uppercase;
+    /*font-size: 10px;*/
+    padding-top: 2px !important
+}
+
+.data-list-progress-bar {
+    text-align: left;
+    width: 64.666667% ;
+    /*width: 70%;
+    padding: 0px 10px 0px 0px;*/
+}
+
+.data-list-route-percent {
+    text-align: left;
+    /*width: 10%;*/
+}
+
+.data-list-submitted-surveys {
+    text-align: right;
+    width: 10%;
+    color: #54ADFF;
+}
+
+.data-list-routes-item td {
+    padding-top: 7px;
+}
+
+.data-view-full-stage {
+    margin-right: 0px!important;
+    padding-right: 10px!important;
+}
+
+.borough-icon {
+    position: absolute;
+    right: 5%;
+    top: 25%;
+    z-index: 10;
+    width: 30%;
+    opacity: 0.5;
+    height: 50%;
+}
+.rc-progress-line {
+    height: 7px;
+    /*width: 134px;*/
+    width: 100%;
+}
+.dahsboard-content
+{
+    position: relative;
+    float: left;
+    width: 100%;
+    background-color: #D9E0E7;
+}
+.map-refresh-margin{
+    position: relative;
+    width: 100%;
+}
+.routeList-table tr {
+    background-color: #fff;
+}
+.routeList-table tr:nth-child(2n+1) {
+    background-color: #eaeaea;
+}
+
+.no-routes-on-map{    
+    position: absolute;
+    padding: 11px 20px;
+    top: 150px;
+    left: 43%;
+    z-index: 99999;
+    background-color:#2D353C;
+    color: #fff;
+    border-radius: 6px;
+
+}
+table.route-tooltip-map td:nth-child(2n+1) {
+    width: 60px;
+}
+
+.need_nypd_map {
+    border-radius: 2px;
+    font-size: 9px;
+    padding: 2px 6px;
+    background-color: crimson;
+    font-weight: bold;
+    color: #fff;
+}
+.routeList-table label.members-route{
+    font-size: 12px;
+}

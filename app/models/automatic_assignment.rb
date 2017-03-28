@@ -1,0 +1,2 @@
+class AutomaticAssignment < ApplicationRecord  
+end

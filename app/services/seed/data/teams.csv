@@ -1,0 +1,1519 @@
+BOROUGH,HOPE Area,Team Number,Needs NYPD?,Hard to Reach,Park,Station,Route,End of Line,Precinct,Training Site,
+K,1211,1,NO,,,,,,63,Brooklyn College,
+K,1215,1,NO,,,,,,63,Brooklyn College,
+K,1251,1,YES,,,,,,63,Brooklyn College,
+K,1261,1,YES,,,,,,63,Brooklyn College,
+K,1270,2,NO,,,,,,63,Brooklyn College,
+K,1275,2,NO,,,,,,63,Brooklyn College,
+K,1284,2,NO,,,,,,63,Brooklyn College,
+K,1548,3,NO,,,,,,63,Brooklyn College,
+K,1557,3,NO,,,,,,63,Brooklyn College,
+K,1565,3,NO,,,,,,63,Brooklyn College,
+K,1693,2,NO,,,,,,63,Brooklyn College,
+K,494,4,YES,,,,,,67,Brooklyn College,
+K,496,4,YES,,,,,,67,Brooklyn College,
+K,499,4,YES,,,,,,67,Brooklyn College,
+K,500,5,YES,,,,,,67,Brooklyn College,
+K,1162,7,YES,,,,,,67,Brooklyn College,
+K,1164,7,YES,,,,,,67,Brooklyn College,
+K,1168,7,YES,,,,,,67,Brooklyn College,
+K,1173,8,YES,,,,,,67,Brooklyn College,
+K,1180,5,YES,,,,,,67,Brooklyn College,
+K,1186,6,YES,,,,,,67,Brooklyn College,
+K,1190,7,YES,,,,,,67,Brooklyn College,
+K,1206,8,YES,,,,,,67,Brooklyn College,
+K,1210,8,YES,,,,,,67,Brooklyn College,
+K,1223,5,YES,,,,,,67,Brooklyn College,
+K,1232,6,YES,,,,,,67,Brooklyn College,
+K,1234,6,YES,,,,,,67,Brooklyn College,
+T,358,8,YES,,,Newkirk Av,2-5,,67,Brooklyn College,
+K,1425,9,YES,,,,,,69,Brooklyn College,
+K,1493,9,YES,,,,,,69,Brooklyn College,
+K,1498,9,YES,,,,,,69,Brooklyn College,
+K,1508,10,NO,,,,,,69,Brooklyn College,
+K,1531,10,NO,,,,,,69,Brooklyn College,
+K,1690,10,NO,,1,,,,69,Brooklyn College,Canarsie Park
+T,136,9,NO,,,New Lots Av,L,,69,Brooklyn College,
+K,601,11,NO,,,,,,70,Brooklyn College,
+K,602,11,YES,,,,,,70,Brooklyn College,
+K,604,11,YES,,,,,,70,Brooklyn College,
+K,906,14,NO,,,,,,70,Brooklyn College,
+K,909,14,NO,,,,,,70,Brooklyn College,
+K,911,12,NO,,,,,,70,Brooklyn College,
+K,1007,12,NO,,,,,,70,Brooklyn College,
+K,1016,14,NO,,,,,,70,Brooklyn College,
+K,1028,15,NO,,,,,,70,Brooklyn College,
+K,1030,15,NO,,,,,,70,Brooklyn College,
+K,1041,13,NO,,,,,,70,Brooklyn College,
+K,1049,15,NO,,,,,,70,Brooklyn College,
+K,1074,13,YES,,,,,,70,Brooklyn College,
+K,1095,13,YES,,,,,,70,Brooklyn College,
+K,1096,13,YES,,,,,,70,Brooklyn College,
+T,45,12,NO,,,Beverly Rd,B-Q,,70,Brooklyn College,
+T,48,15,NO,,,Av H,B-Q,,70,Brooklyn College,
+T,50,15,NO,,,Av M,B-Q,,70,Brooklyn College,
+T,245,14,NO,,,18 Av,F,,70,Brooklyn College,
+T,359,EOL,NO,,,Brooklyn College - Flatbush Ave,2-5,1,70,Brooklyn College,
+K,950,3,NO,,,,,,60,PS100,
+K,951,3,YES,,,,,,60,PS100,
+K,997,2,NO,,,,,,60,PS100,
+K,998,3,NO,,,,,,60,PS100,
+K,999,2,NO,,,,,,60,PS100,
+K,1584,2,NO,,,,,,60,PS100,
+K,1585,2,NO,,,,,,60,PS100,
+K,1588,1,NO,,,,,,60,PS100,
+K,1590,1,NO,,,,,,60,PS100,
+K,1591,2,NO,,,,,,60,PS100,
+K,1592,1,NO,,,,,,60,PS100,
+K,1597,5,NO,,,,,,60,PS100,
+K,1603,4,NO,,,,,,60,PS100,
+K,1605,5,NO,,,,,,60,PS100,
+K,1607,5,NO,,,,,,60,PS100,
+K,1609,4,NO,,,,,,60,PS100,
+K,1618,4,NO,,,,,,60,PS100,
+K,1634,1,NO,,,,,,60,PS100,
+T,57,5,YES,,,W 8 St - NY Aquarium,F-Q,,60,PS100,
+T,58,EOL,YES,,,Coney Island - Stillwell Av,D-F-N-Q,1,60,PS100,
+T,79,3,YES,,,Gravesend - 86 St,N,,60,PS100,
+K,958,3,NO,,,,,,61,PS100,
+K,976,11,NO,,,,,,61,PS100,
+K,982,10,NO,,,,,,61,PS100,
+K,983,10,NO,,,,,,61,PS100,
+K,990,10,NO,,,,,,61,PS100,
+K,996,11,NO,,,,,,61,PS100,
+K,1056,9,NO,,,,,,61,PS100,
+K,1058,9,NO,,,,,,61,PS100,
+K,1085,9,NO,,,,,,61,PS100,
+K,1107,8,NO,,,,,,61,PS100,
+K,1108,8,NO,,,,,,61,PS100,
+K,1112,8,NO,,,,,,61,PS100,
+K,1113,8,NO,,,,,,61,PS100,
+K,1114,9,NO,,,,,,61,PS100,
+K,1120,7,NO,,,,,,61,PS100,
+K,1125,7,NO,,,,,,61,PS100,
+K,1130,7,YES,,,,,,61,PS100,
+K,1570,6,NO,,,,,,61,PS100,
+K,1571,6,NO,,,,,,61,PS100,
+K,1646,6,NO,,,,,,61,PS100,
+K,1654,11,NO,,1,,,,61,PS100,
+K,1674,6,NO,,,,,,61,PS100,
+K,1682,6,NO,,,,,,61,PS100,
+T,250,10,NO,,,Kings Hwy,F,,61,PS100,
+K,817,12,NO,,,,,,62,PS100,
+K,837,16,NO,,,,,,62,PS100,
+K,840,16,NO,,,,,,62,PS100,
+K,841,13,NO,,,,,,62,PS100,
+K,842,13,NO,,,,,,62,PS100,
+K,844,13,NO,,,,,,62,PS100,
+K,852,14,NO,,,,,,62,PS100,
+K,854,14,NO,,,,,,62,PS100,
+K,864,16,NO,,,,,,62,PS100,
+K,876,15,NO,,,,,,62,PS100,
+K,878,15,NO,,,,,,62,PS100,
+K,953,14,NO,,,,,,62,PS100,
+K,1628,HTR,NO,,,,,,62,PS100,
+T,64,12,NO,,,71 St,D,,62,PS100,
+T,67,16,NO,,,20 Av,D,,62,PS100,
+T,68,15,NO,,,Bay Pkwy,D,,62,PS100,
+T,73,12,NO,,,New Utrecht Av,N,,62,PS100,
+K,597,1,NO,,,,,,66,PS102,
+K,600,1,NO,,,,,,66,PS102,
+K,662,4,NO,,,,,,66,PS102,
+K,666,2,NO,,,,,,66,PS102,
+K,670,4,NO,,,,,,66,PS102,
+K,680,4,NO,,,,,,66,PS102,
+K,684,1,NO,,,,,,66,PS102,
+K,685,1,NO,,,,,,66,PS102,
+K,686,2,NO,,,,,,66,PS102,
+K,693,2,NO,,,,,,66,PS102,
+K,699,3,NO,,,,,,66,PS102,
+K,700,3,NO,,,,,,66,PS102,
+K,710,4,NO,,,,,,66,PS102,
+K,711,4,NO,,,,,,66,PS102,
+K,883,3,NO,,,,,,66,PS102,
+K,889,5,NO,,,,,,66,PS102,
+K,893,6,NO,,,,,,66,PS102,
+K,894,6,NO,,,,,,66,PS102,
+K,903,6,NO,,,,,,66,PS102,
+K,904,6,NO,,,,,,66,PS102,
+K,905,6,NO,,,,,,66,PS102,
+K,968,5,NO,,,,,,66,PS102,
+K,1689,5,NO,,,,,,66,PS102,
+T,61,3,NO,,,50 St,D,,66,PS102,
+T,247,5,NO,,,Bay Pkwy,F,,66,PS102,
+K,673,11,YES,,,,,,68,PS102,
+K,675,12,NO,,,,,,68,PS102,
+K,677,12,NO,,,,,,68,PS102,
+K,719,10,NO,,,,,,68,PS102,
+K,720,10,YES,,,,,,68,PS102,
+K,721,10,NO,,,,,,68,PS102,
+K,722,10,NO,,,,,,68,PS102,
+K,746,12,NO,,,,,,68,PS102,
+K,748,11,YES,,,,,,68,PS102,
+K,756,11,YES,,,,,,68,PS102,
+K,760,12,NO,,,,,,68,PS102,
+K,771,8,NO,,,,,,68,PS102,
+K,777,8,NO,,,,,,68,PS102,
+K,787,9,NO,,,,,,68,PS102,
+K,788,9,NO,,,,,,68,PS102,
+K,791,9,NO,,,,,,68,PS102,
+K,792,7,NO,,,,,,68,PS102,
+K,795,8,NO,,,,,,68,PS102,
+K,796,7,NO,,,,,,68,PS102,
+K,1630,HTR,NO,1,,,,,68,PS102,
+K,1650,7,NO,,,,,,68,PS102,
+T,36,11,NO,,,Bay Ridge Av,R,,68,PS102,
+T,38,8,NO,,,86 St,R,,68,PS102,
+T,39,EOL,NO,,,Bay Ridge - 95 St,R,1,68,PS102,
+K,542,18,NO,,,,,,72,PS102,
+K,587,13,NO,,,,,,72,PS102,
+K,589,17,NO,,,,,,72,PS102,
+K,590,18,NO,,,,,,72,PS102,
+K,598,17,NO,,,,,,72,PS102,
+K,607,13,NO,,,,,,72,PS102,
+K,623,13,NO,,,,,,72,PS102,
+K,649,15,NO,,,,,,72,PS102,
+K,657,14,NO,,,,,,72,PS102,
+K,661,15,NO,,,,,,72,PS102,
+K,671,16,NO,,,,,,72,PS102,
+K,672,16,NO,,,,,,72,PS102,
+K,674,16,NO,,,,,,72,PS102,
+K,678,15,NO,,,,,,72,PS102,
+K,679,15,NO,,,,,,72,PS102,
+T,33,14,NO,,,45 St,R,,72,PS102,
+T,34,14,NO,,,53 St,R,,72,PS102,
+T,35,16,NO,,,59 St,N-R,,72,PS102,
+T,241,18,NO,,,15 St - Prospect Park,F-G,,72,PS102,
+T,242,17,NO,,,Fort Hamilton Pkwy,F-G,,72,PS102,
+K,379,4,Y,,,,,,73,PS167,
+K,383,4,Y,,,,,,73,PS167,
+K,430,1,Y,,,,,,73,PS167,
+K,1291,1,Y,,,,,,73,PS167,
+K,1299,3,Y,,,,,,73,PS167,
+K,1301,2,Y,,,,,,73,PS167,
+K,1302,2,Y,,,,,,73,PS167,
+K,1304,2,Y,,,,,,73,PS167,
+K,1315,1,Y,,,,,,73,PS167,
+K,1317,3,Y,,,,,,73,PS167,
+K,1318,3,Y,,,,,,73,PS167,
+K,1324,3,Y,,,,,,73,PS167,
+K,1327,1,Y,,,,,,73,PS167,
+K,1328,4,Y,,,,,,73,PS167,
+T,349,3,N ,,,Junius St,3,,73,PS167,
+K,393,11,Y,,,,,,75,PS167,
+K,394,11,Y,,,,,,75,PS167,
+K,395,11,Y,,,,,,75,PS167,
+K,1332,12,Y,,,,,,75,PS167,
+K,1336,12,Y,,,,,,75,PS167,
+K,1340,11,Y,,,,,,75,PS167,
+K,1347,12,Y,,,,,,75,PS167,
+K,1350,10,Y,,,,,,75,PS167,
+K,1353,7,Y,,,,,,75,PS167,
+K,1358,7,Y,,,,,,75,PS167,
+K,1370,10,Y,,,,,,75,PS167,
+K,1371,9,Y,,,,,,75,PS167,
+K,1372,9,Y,,,,,,75,PS167,
+K,1374,10,Y,,,,,,75,PS167,
+K,1375,10,Y,,,,,,75,PS167,
+K,1376,9,Y,,,,,,75,PS167,
+K,1378,9,Y,,,,,,75,PS167,
+K,1384,8,Y,,,,,,75,PS167,
+K,1385,8,Y,,,,,,75,PS167,
+K,1391,8,Y,,,,,,75,PS167,
+K,1403,7,Y,,,,,,75,PS167,
+K,1404,7,Y,,,,,,75,PS167,
+K,1440,5,Y,,,,,,75,PS167,
+K,1446,5,Y,,,,,,75,PS167,
+K,1448,6,Y,,,,,,75,PS167,
+K,1462,6,Y,,,,,,75,PS167,
+K,1464,6,Y,,,,,,75,PS167,
+K,1470,6,Y,,,,,,75,PS167,
+K,1482,5,Y,,,,,,75,PS167,
+K,1486,5,Y,,,,,,75,PS167,
+T,86,7,N,,,Cypress Hills,J,,75,PS167,
+T,88,8,N,,,Norwood Av,J,,75,PS167,
+T,90,11,N,,,Van Siclen Av,J,,75,PS167,
+T,132,14,N,,,Broadway Junction (Eastern Pkwy),L,,75,PS167,
+T,133,14,N,,,Atlantic Av,L,,75,PS167,
+T,350,12,N,,,Pennsylvania Av,3,,75,PS167,
+T,352,EOL,Y,,,New Lots Av,3,1,75,PS167,
+K,143,15,Y,,,,,,81,PS167,
+K,145,15,Y,,,,,,81,PS167,
+K,201,13,Y,,,,,,81,PS167,
+K,245,13,Y,,,,,,81,PS167,
+T,98,15,N,,,Flushing Av,J-M,,81,PS167,
+T,181,13,N,,,Utica Av,A-C,,81,PS167,
+K,438,1,NO,,,,,,71,PS241,
+K,439,1,NO,,,,,,71,PS241,
+K,464,2,NO,,,,,,71,PS241,
+K,465,2,NO,,,,,,71,PS241,
+K,467,2,NO,,,,,,71,PS241,
+K,470,1,NO,,,,,,71,PS241,
+K,471,1,NO,,,,,,71,PS241,
+K,477,2,NO,,,,,,71,PS241,
+K,487,2,NO,,,,,,71,PS241,
+K,355,3,N,,,,,,77,PS241,
+K,361,3,Y,,,,,,77,PS241,
+K,404,4,Y,,,,,,77,PS241,
+K,405,4,Y,,,,,,77,PS241,
+K,408,4,Y,,,,,,77,PS241,
+K,421,5,Y,,,,,,77,PS241,
+K,437,3,Y,,,,,,77,PS241,
+K,440,4,Y,,,,,,77,PS241,
+K,442,5,Y,,,,,,77,PS241,
+K,449,5,Y,,,,,,77,PS241,
+K,44,6,Y,,,,,,79,PS241,
+K,88,6,Y,,,,,,79,PS241,
+K,213,6,Y,,,,,,79,PS241,
+K,219,7,Y,,,,,,79,PS241,
+K,248,8,Y,,,,,,79,PS241,
+K,265,7,Y,,,,,,79,PS241,
+K,363,7,Y,,,,,,79,PS241,
+K,366,8,Y,,,,,,79,PS241,
+K,367,8,Y,,,,,,79,PS241,
+T,179,8,N,,,Nostrand Av,A-C,,79,PS241,
+T,290,7,N,,,Classon Av,G,,79,PS241,
+K,142,13,Y,,,,,,83,PS257,
+K,146,13,Y,,,,,,83,PS257,
+K,151,13,Y,,,,,,83,PS257,
+K,155,8,N,,,,,,83,PS257,
+K,158,8,N,,,,,,83,PS257,
+K,164,9,N,,,,,,83,PS257,
+K,166,8,N,,,,,,83,PS257,
+K,171,13,Y,,,,,,83,PS257,
+K,177,11,Y,,,,,,83,PS257,
+K,181,12,Y,,,,,,83,PS257,
+K,183,9,Y,,,,,,83,PS257,
+K,188,11,Y,,,,,,83,PS257,
+K,190,12,Y,,,,,,83,PS257,
+K,197,11,Y,,,,,,83,PS257,
+K,198,12,Y,,,,,,83,PS257,
+K,199,12,Y,,,,,,83,PS257,
+K,200,10,Y,,,,,,83,PS257,
+K,385,10,Y,,,,,,83,PS257,
+K,386,10,Y,,,,,,83,PS257,
+T,92,10,N,,,Broadway Junction (Eastern Pkwy),J-Z,,83,PS257,
+T,113,8,N,,,Knickerbocker Av,M,,83,PS257,
+T,114,13,N,,,Central Av,M,,83,PS257,
+T,127,9,N,,,DeKalb Av,L,,83,PS257,
+T,131,10,N,,,Bushwick - Aberdeen,L,,83,PS257,
+K,8,5,N,,,,,,90,PS257,
+K,20,5,N,,,,,,90,PS257,
+K,48,5,N,,,,,,90,PS257,
+K,86,6,Y,,,,,,90,PS257,
+K,113,6,Y,,,,,,90,PS257,
+K,117,7,Y,,,,,,90,PS257,
+K,118,7,Y,,,,,,90,PS257,
+K,124,7,Y,,,,,,90,PS257,
+K,157,8,N,,,,,,90,PS257,
+T,99,6,N,,,Lorimer St,J-M,,90,PS257,
+T,101,5,N,,,Marcy Av,J-M-Z,,90,PS257,
+T,285,6,N,,,Metropolitan Av,G,,90,PS257,
+T,287,7,N,,,Flushing Av,G,,90,PS257,
+K,30,3,N,,,,,,94,PS257,
+K,34,3,N,,,,,,94,PS257,
+K,53,2,N,,,,,,94,PS257,
+K,57,1,N,,,,,,94,PS257,
+K,59,1,N,,,,,,94,PS257,
+K,61,1,N,,,,,,94,PS257,
+K,67,2,N,,,,,,94,PS257,
+K,68,2,N,,,,,,94,PS257,
+K,85,3,N,,,,,,94,PS257,
+K,90,4,N,,,,,,94,PS257,
+K,91,4,N,,,,,,94,PS257,
+K,93,4,N,,,,,,94,PS257,
+K,99,4,Y,,,,,,94,PS257,
+T,284,2,N,,,Nassau Av,G,,94,PS257,
+K,334,15,NO,,,,,,76,PS261,
+K,336,15,NO,,,,,,76,PS261,
+K,510,15,NO,,,,,,76,PS261,
+K,548,15,NO,,,,,,76,PS261,
+K,555,14,NO,,,,,,76,PS261,
+K,573,14,NO,,,,,,76,PS261,
+K,578,14,NO,,,,,,76,PS261,
+K,347,6,NO,,,,,,78,PS261,
+K,350,13,NO,,,,,,78,PS261,
+K,352,13,NO,,,,,,78,PS261,
+K,397,13,NO,,,,,,78,PS261,
+K,525,12,NO,,,,,,78,PS261,
+K,531,12,NO,,,,,,78,PS261,
+K,1706,11,NO,,1,,,,78,PS261,
+K,1718,11,NO,,1,,,,78,PS261,
+K,1720,11,NO,,1,,,,78,PS261,
+T,28,12,NO,,,Union St,R,,78,PS261,
+T,41,13,NO,,,7 Av,B-Q,,78,PS261,
+T,240,12,NO,,,7 Av,F-G,,78,PS261,
+T,340,13,NO,,,Grand Army Plaza,2-3,,78,PS261,
+T,341,11,NO,,,Eastern Pkwy - Brooklyn Museum,2-3,,78,PS261,
+K,302,9,Y,,,,,,84,PS261,
+K,307,9,Y,,,,,,84,PS261,
+K,312,10,Y,,,,,,84,PS261,
+K,313,10,N,,,,,,84,PS261,
+K,314,10,Y,,,,,,84,PS261,
+K,315,10,N,,,,,,84,PS261,
+K,319,8,N,,,,,,84,PS261,
+K,326,7,N,,,,,,84,PS261,
+K,331,7,N,,,,,,84,PS261,
+K,333,6,N,,,,,,84,PS261,
+T,25,8,N,,,Jay St - MetroTech,R,,84,PS261,
+T,26,7,N,,,DeKalb Av,B-Q-R,,84,PS261,
+T,27,6,N,,,Atlantic Av - Barclays Ctr,D-N-R,,84,PS261,
+T,173,9,N,,,High St,A-C,,84,PS261,
+T,174,8,N,,,Jay St - MetroTech,A-C-F,,84,PS261,
+T,175,7,N,,,Hoyt-Schermerhorn Sts,A-C-G,,84,PS261,
+T,236,7,N,,,Bergen St,F-G,,84,PS261,
+T,334,9,N,,,Clark St,2-3,,84,PS261,
+T,335,8,N,,,Borough Hall,2-3,,84,PS261,
+T,415,8,N,,,Borough Hall,4-5,,84,PS261,
+K,45,2,Y,,,,,,88,PS261,
+K,214,1,Y,,,,,,88,PS261,
+K,260,1,Y,,,,,,88,PS261,
+K,264,3,Y,,,,,,88,PS261,
+K,273,1,Y,,,,,,88,PS261,
+K,274,2,Y,,,,,,88,PS261,
+K,275,2,Y,,,,,,88,PS261,
+K,277,2,Y,,,,,,88,PS261,
+K,281,5,Y,,,,,,88,PS261,
+K,282,5,Y,,,,,,88,PS261,
+K,283,4,N,,,,,,88,PS261,
+K,288,4,N,,,,,,88,PS261,
+K,289,4,N,,,,,,88,PS261,
+T,40,6,N,,,Atlantic Av - Barclays Ctr,B-Q,,88,PS261,
+T,291,3,N,,,Clinton - Washington Aves,G,,88,PS261,
+T,338,6,N,,,Atlantic Av - Barclays Ctr,2-3-4-5,,88,PS261,
+X,308,1,,,,,,,42,Bronx High School For Law and Community Service
+X,311,1,YES,,,,,,42,Bronx High School For Law and Community Service
+X,312,1,YES,,,,,,42,Bronx High School For Law and Community Service
+X,318,8,,,,,,,42,Bronx High School For Law and Community Service
+X,329,8,YES,,,,,,42,Bronx High School For Law and Community Service
+X,330,8,YES,,,,,,42,Bronx High School For Law and Community Service
+X,336,9,,,,,,,42,Bronx High School For Law and Community Service
+X,414,10,YES,,,,,,42,Bronx High School For Law and Community Service
+X,416,10,YES,,,,,,42,Bronx High School For Law and Community Service
+X,421,10,YES,,,BUTLER,,,42,Bronx High School For Law and Community Service
+X,423,11,,,,,,,42,Bronx High School For Law and Community Service
+X,478,9,,,,,,,42,Bronx High School For Law and Community Service
+T,428,1,,,,174 St,2-5,,42,Bronx High School For Law and Community Service
+T,429,1,,,,Freeman St,2-5,,42,Bronx High School For Law and Community Service
+X,433,16,,,,,,,46,Bronx High School For Law and Community Service
+X,435,14,,,,,,,46,Bronx High School For Law and Community Service
+X,436,11,,,,,,,46,Bronx High School For Law and Community Service
+X,438,16,,,,,,,46,Bronx High School For Law and Community Service
+X,439,15,YES,,,,,,46,Bronx High School For Law and Community Service
+X,440,14,,,,,,,46,Bronx High School For Law and Community Service
+X,442,14,YES,,,,,,46,Bronx High School For Law and Community Service
+X,446,15,,,,,,,46,Bronx High School For Law and Community Service
+X,457,15,,,,,,,46,Bronx High School For Law and Community Service
+X,459,13,YES,,,,,,46,Bronx High School For Law and Community Service
+X,460,12,YES,,,,,,46,Bronx High School For Law and Community Service
+X,556,12,YES,,,,,,46,Bronx High School For Law and Community Service
+X,558,13,,,,,,,46,Bronx High School For Law and Community Service
+X,559,12,,,,,,,46,Bronx High School For Law and Community Service
+T,213,13,,,,Fordham Rd,B-D,,46,Bronx High School For Law and Community Service
+T,214,16,,,,182-183 Sts,B-D,,46,Bronx High School For Law and Community Service
+T,215,14,,,,Tremont Av,B-D,,46,Bronx High School For Law and Community Service
+T,384,13,,,,Burnside Av,4,,46,Bronx High School For Law and Community Service
+X,389,2,YES,,,,,,48,Bronx High School For Law and Community Service
+X,392,2,,,,,,,48,Bronx High School For Law and Community Service
+X,395,2,,,,,,,48,Bronx High School For Law and Community Service
+X,397,2,YES,,,,,,48,Bronx High School For Law and Community Service
+X,407,7,YES,,,,,,48,Bronx High School For Law and Community Service
+X,411,7,,,,,,,48,Bronx High School For Law and Community Service
+X,420,11,,,,,,,48,Bronx High School For Law and Community Service
+X,424,11,,,,,,,48,Bronx High School For Law and Community Service
+X,429,17,,,,,,,48,Bronx High School For Law and Community Service
+X,431,17,,,,,,,48,Bronx High School For Law and Community Service
+X,102,6,,,,,,,49,Bronx High School For Law and Community Service
+X,105,5,,,,,,,49,Bronx High School For Law and Community Service
+X,106,5,,,,,,,49,Bronx High School For Law and Community Service
+X,110,6,,,,,,,49,Bronx High School For Law and Community Service
+X,124,4,,,,,,,49,Bronx High School For Law and Community Service
+X,131,4,,,,,,,49,Bronx High School For Law and Community Service
+X,162,18,,,,,,,49,Bronx High School For Law and Community Service
+X,191,HTR,,1,,,,,49,Bronx High School For Law and Community Service
+X,199,3,,,,,,,49,Bronx High School For Law and Community Service
+X,612,18,YES,,,,,,49,Bronx High School For Law and Community Service
+X,893,HTR,YES,1,,,,,49,Bronx High School For Law and Community Service
+X,895,HTR,YES,1,,,,,49,Bronx High School For Law and Community Service
+X,337,9,YES,,,,,,40,Hostos
+X,358,9,YES,,,,,,40,Hostos
+X,360,7,,,,,,,40,Hostos
+X,365,9,YES,,,,,,40,Hostos
+X,368,7,,,,,,,40,Hostos
+X,372,6,YES,,,,,,40,Hostos
+X,373,6,,,,,,,40,Hostos
+X,374,6,,,,,,,40,Hostos
+X,376,7,YES,,,,,,40,Hostos
+X,378,6,YES,,,,,,40,Hostos
+X,481,9,YES,,,,,,40,Hostos
+X,482,8,YES,,,,,,40,Hostos
+X,483,8,YES,,,,,,40,Hostos
+X,516,10,,,,,,,40,Hostos
+X,518,10,,,,,,,40,Hostos
+X,519,8,YES,,,,,,40,Hostos
+X,520,15,,,,,,,40,Hostos
+X,522,10,,,,,,,40,Hostos
+X,523,11,,,,,,,40,Hostos
+X,524,12,,,,,,,40,Hostos
+T,375,7,,,,Cypress Av,6,,40,Hostos
+T,376,7,,,,Brook Av,6,,40,Hostos
+T,390,15,,,,149 St - Grand Concourse,4,,40,Hostos
+T,391,10,,,,138 St - Grand Concourse,4-5,,40,Hostos
+T,435,15,,,,149 St - Grand Concourse,2-5,,40,Hostos
+X,317,1,,,,,,,41,Hostos
+X,320,1,,,,,,,41,Hostos
+X,324,4,,,,,,,41,Hostos
+X,328,1,,,,,,,41,Hostos
+X,341,1,YES,,,,,,41,Hostos
+X,344,3,,,,,,,41,Hostos
+X,345,3,,,,,,,41,Hostos
+X,346,2,,,,,,,41,Hostos
+X,350,2,,,,,,,41,Hostos
+X,484,4,YES,,,,,,41,Hostos
+X,491,5,,,,,,,41,Hostos
+X,510,HTR,HTR,1,,,,,41,Hostos
+X,464,19,YES,,,,,,44,Hostos
+X,467,18,YES,,,,,,44,Hostos
+X,468,17,YES,,,,,,44,Hostos
+X,469,18,YES,,,,,,44,Hostos
+X,470,18,YES,,,,,,44,Hostos
+X,472,17,YES,,,,,,44,Hostos
+X,473,17,YES,,,,,,44,Hostos
+X,477,16,,,,,,,44,Hostos
+X,525,15,,,,,,,44,Hostos
+X,526,15,,,,,,,44,Hostos
+X,527,16,,,,,,,44,Hostos
+X,528,16,,,,,,,44,Hostos
+X,529,12,,,,,,,44,Hostos
+X,530,12,,,,,,,44,Hostos
+X,532,14,,,,,,,44,Hostos
+X,535,19,YES,,,,,,44,Hostos
+X,537,19,,,,,,,44,Hostos
+X,538,14,,,1,,,,44,Hostos
+X,542,20,,,,,,,44,Hostos
+X,546,11,,,,,,,44,Hostos
+X,548,11,,,,,,,44,Hostos
+X,550,20,,,,,,,44,Hostos
+X,551,13,YES,,,,,,44,Hostos
+X,553,13,YES,,,,,,44,Hostos
+X,743,13,,,,,,,44,Hostos
+T,219,14,,,,161 St - Yankee Stadium,B-D,,44,Hostos
+T,389,14,,,,161 St - Yankee Stadium,4,,44,Hostos
+X,685,12,YES,,,,,,50,Lehman
+X,687,13,YES,,,,,,50,Lehman
+X,688,14,YES,,,,,,50,Lehman
+X,689,13,YES,,,,,,50,Lehman
+X,690,13,YES,,,,,,50,Lehman
+X,705,14,YES,,,,,,50,Lehman
+X,706,14,YES,,,,,,50,Lehman
+X,710,5,,,,,,,50,Lehman
+X,711,2,,,,,,,50,Lehman
+X,712,2,YES,,,,,,50,Lehman
+X,714,5,,,,,,,50,Lehman
+X,715,6,,,,,,,50,Lehman
+X,754,15,YES,,,,,,50,Lehman
+X,758,15,YES,,,,,,50,Lehman
+X,776,15,,,,,,,50,Lehman
+X,781,6,,,,,,,50,Lehman
+X,880,HTR,YES,1,,,,,50,Lehman
+X,881,HTR,HTR,1,,,,,50,Lehman
+T,293,EOL,,,,Van Cortlandt Park - 242 St,1,1,50,Lehman
+X,432,4,YES,,,,,,52,Lehman
+X,447,4,,,,,,,52,Lehman
+X,452,4,,,,,,,52,Lehman
+X,454,3,YES,,,,,,52,Lehman
+X,455,3,YES,,,,,,52,Lehman
+X,561,3,,,,,,,52,Lehman
+X,655,9,,,,,,,52,Lehman
+X,656,9,,,,,,,52,Lehman
+X,658,10,,,,,,,52,Lehman
+X,660,10,,,,,,,52,Lehman
+X,664,11,,,,,,,52,Lehman
+X,717,1,YES,,,,,,52,Lehman
+X,721,1,,,,,,,52,Lehman
+X,725,1,,,,,,,52,Lehman
+X,890,HTR,,1,,,,,52,Lehman
+X,894,HTR,,1,,,,,52,Lehman
+X,903,8,,,,,,,52,Lehman
+X,904,11,,,,,,,52,Lehman
+T,378,11,,,,Woodlawn,4,,52,Lehman
+T,382,3,,,,Fordham Rd,4,,52,Lehman
+X,2,8,YES,,,,,,43,PS/IS194
+X,17,9,,,,,,,43,PS/IS194
+X,25,8,YES,,,CASTLE HILL,,,43,PS/IS194
+X,34,HTR,,1,,,,,43,PS/IS194
+X,35,10,,,,,,,43,PS/IS194
+X,65,11,YES,,,,,,43,PS/IS194
+X,72,11,YES,,,BRONX RIVER,,,43,PS/IS194
+X,77,9,,,,,,,43,PS/IS194
+X,96,12,,,,,,,43,PS/IS194
+X,504,10,,,,,,,43,PS/IS194
+X,797,HTR,YES,1,,,,,43,PS/IS194
+X,93,12,,,,,,,45,PS/IS194
+X,588,5,,,,,,,45,PS/IS194
+X,593,5,YES,,,,,,45,PS/IS194
+X,615,4,,,,,,,45,PS/IS194
+X,634,7,,,,,,,45,PS/IS194
+X,635,7,,,,,,,45,PS/IS194
+X,637,7,,,,,,,45,PS/IS194
+X,638,7,,,,,,,45,PS/IS194
+X,649,6,,,,,,,45,PS/IS194
+X,828,2,,,,,,,45,PS/IS194
+X,832,1,,,,,,,45,PS/IS194
+X,838,4,,,,,,,45,PS/IS194
+X,839,4,,,,,,,45,PS/IS194
+X,843,1,,,,,,,45,PS/IS194
+X,858,HTR,YES,1,,,,,45,PS/IS194
+X,862,2,YES,,,,,,45,PS/IS194
+X,863,2,YES,,,,,,45,PS/IS194
+T,360,EOL,,,,Pelham Bay Park,6,1,45,PS/IS194
+T,365,12,,,,Castle Hill Av,6,,45,PS/IS194
+X,217,2,,,,,,,47,PS16
+X,218,2,,,,,,,47,PS16
+X,221,4,,,,,,,47,PS16
+X,222,4,,,,,,,47,PS16
+X,227,2,,,,,,,47,PS16
+X,232,3,YES,,,,,,47,PS16
+X,236,3,YES,,,,,,47,PS16
+X,239,3,YES,,,,,,47,PS16
+X,254,5,YES,,,,,,47,PS16
+X,271,1,YES,,,,,,47,PS16
+X,277,5,,,,,,,47,PS16
+X,286,6,YES,,,,,,47,PS16
+X,288,6,,,,,,,47,PS16
+X,293,6,YES,,,,,,47,PS16
+X,295,5,YES,,,,,,47,PS16
+X,303,5,,,,,,,47,PS16
+X,836,1,YES,,,,,,47,PS16
+T,416,6,,,,Wakefield - 241 St,2,,47,PS16
+T,417,6,,,,Nereid Av,2-5,,47,PS16
+T,421,2,,,,Gun Hill Rd,2-5,,47,PS16
+T,442,1,,,,Eastchester - Dyre Av,5,,47,PS16
+M,1,1,NO,,,,,,1,MN,#REF!,
+M,3,2,NO,,,,,,1,MN,#REF!,
+M,15,2,NO,,,,,,1,MN,#REF!,
+M,16,2,NO,,,,,,1,MN,#REF!,
+T,23,2,,,,Whitehall St - South Ferry,R,,1,T,#REF!,
+T,330,2,,,,South Ferry,1,,1,T,#REF!,
+M,4,3,YES,,,,,,1,MN,#REF!,
+M,6,3,NO,,,,,,1,MN,#REF!,
+T,107,3,,,,Broad St,J-Z,,1,T,#REF!,
+T,414,3,,,,Bowling Green,4-5,,1,T,#REF!,
+M,5,4,NO,,,,,,1,MN,#REF!,
+M,8,4,NO,,,,,,1,MN,#REF!,
+M,13,4,NO,,,,,,1,MN,#REF!,
+T,329,4,,,,Rector St,1,,1,T,#REF!,
+M,9,5,NO,,,,,,1,MN,#REF!,
+M,12,5,NO,,,,,,1,MN,#REF!,
+T,333,5,,,,Wall St,2-3,,1,T,#REF!,
+T,413,5,,,,Wall St,4-5,,1,T,#REF!,
+M,31,6,NO,,,,,,1,MN,#REF!,
+M,32,6,NO,,,,,,1,MN,#REF!,
+M,51,6,NO,,,,,,1,MN,#REF!,
+T,327,6,,,,Chambers St,1-2-3,,1,T,#REF!,
+M,20,7,NO,,,,,,1,MN,#REF!,
+M,24,7,NO,,,,,,1,MN,#REF!,
+T,172,7,,,,Broadway - Nassau St,A-C,,1,T,#REF!,
+T,412,7,,,,Fulton St,4-5,,1,T,#REF!,
+M,25,8,NO,,,,,,1,MN,#REF!,
+M,28,8,NO,,,,,,1,MN,#REF!,
+T,170,8,,,,Chambers St,A-C,,1,T,#REF!,
+T,171,8,,,,World Trade Center,E,,1,T,#REF!,
+T,331,8,,,,Park Pl,2-3,,1,T,#REF!,
+T,20,9,,,,City Hall,R,,1,T,#REF!,
+M,27,9,NO,,,,,,1,MN,#REF!,
+T,411,9,,,,Brooklyn Bridge - City Hall,4-5-6,,1,T,#REF!,
+M,29,10,NO,,,,,,1,MN,#REF!,
+M,33,10,NO,,,,,,1,MN,#REF!,
+M,78,21,NO,,,,,,1,MN,#REF!,
+M,82,21,NO,,,,,,1,MN,#REF!,
+M,101,21,NO,,,,,,1,MN,#REF!,
+T,169,21,,,,Canal St,A-C-E,,1,T,#REF!,
+T,325,21,,,,Canal St,1,,1,T,#REF!,
+M,100,22,NO,,,,,,1,MN,#REF!,
+M,102,22,NO,,,,,,1,MN,#REF!,
+M,103,22,NO,,,,,,1,MN,#REF!,
+M,136,22,NO,,,,,,1,MN,#REF!,
+M,83,23,NO,,,,,,1,MN,#REF!,
+M,98,23,NO,,,,,,1,MN,#REF!,
+M,99,23,NO,,,,,,1,MN,#REF!,
+M,38,9,NO,,,,,,5,MN,#REF!,
+T,105,9,,,,Chambers St,J-Z,,5,T,#REF!,
+M,37,10,NO,,,,,,5,MN,#REF!,
+M,35,11,NO,,,,,,5,MN,#REF!,
+M,36,11,NO,,,,,,5,MN,#REF!,
+M,40,11,NO,,,,,,5,MN,#REF!,
+M,42,11,NO,,,,,,5,MN,#REF!,
+M,43,12,NO,,,,,,5,MN,#REF!,
+M,44,15,NO,,,,,,5,MN,#REF!,
+M,46,15,YES,,,,,,5,MN,#REF!,
+M,94,17,YES,,,,,,5,MN,#REF!,
+T,103,17,,,,Bowery,J-Z,,5,T,#REF!,
+M,115,17,YES,,,,,,5,MN,#REF!,
+T,231,17,,,,Grand St,B-D,,5,T,#REF!,
+M,77,18,NO,,,,,,5,MN,#REF!,
+M,95,18,NO,,,,,,5,MN,#REF!,
+M,112,18,NO,,,,,,5,MN,#REF!,
+T,232,18,,,,2 Av,F-M,,5,T,#REF!,
+M,72,19,NO,,,,,,5,MN,#REF!,
+M,76,19,NO,,,,,,5,MN,#REF!,
+T,17,20,,,,Prince St,N-R,,5,T,#REF!,
+M,79,20,NO,,,,,,5,MN,#REF!,
+M,96,20,NO,,,,,,5,MN,#REF!,
+M,97,20,NO,,,,,,5,MN,#REF!,
+T,409,20,,,,Spring St,6,,5,T,#REF!,
+T,18,24,,,,Canal St,R,,5,T,#REF!,
+T,19,24,,,,Canal St,N-Q,,5,T,#REF!,
+T,104,24,,,,Canal St,J-Z,,5,T,#REF!,
+T,410,24,,,,Canal St,6,,5,T,#REF!,
+M,108,7,NO,,,,,,6,MN,#REF!,
+M,133,8,NO,,,,,,6,MN,#REF!,
+M,107,9,NO,,,,,,6,MN,#REF!,
+M,134,9,NO,,,,,,6,MN,#REF!,
+M,145,9,NO,,,,,,6,MN,#REF!,
+T,167,9,NO,,,W 4 St - Wash Sq,A-B-C-D-E-F-M,,6,T,#REF!,
+M,132,10,NO,,,,,,6,MN,#REF!,
+M,152,10,NO,,,,,,6,MN,#REF!,
+M,153,10,NO,,,,,,6,MN,#REF!,
+M,170,10,NO,,,,,,6,MN,#REF!,
+M,139,11,,,,,,,6,MN,#REF!,
+M,140,11,,,,,,,6,MN,#REF!,
+M,144,11,NO,,,,,,6,MN,#REF!,
+T,323,11,NO,,,Christopher St - Sheridan Sq,1,,6,T,#REF!,
+M,137,12,,,,,,,6,MN,#REF!,
+M,143,12,,,,,,,6,MN,#REF!,
+M,148,12,NO,,,,,,6,MN,#REF!,
+M,150,12,NO,,,,,,6,MN,#REF!,
+M,172,13,NO,,,,,,6,MN,#REF!,
+M,173,13,NO,,,,,,6,MN,#REF!,
+M,174,13,NO,,,,,,6,MN,#REF!,East River Park
+M,175,13,,,,,,,6,MN,#REF!,
+T,116,14,NO,,,6 Av,L,,6,T,#REF!,
+M,171,14,NO,,,,,,6,MN,#REF!,
+T,322,14,NO,,,14 St,1-2-3,,6,T,#REF!,
+M,55,12,NO,,,,,,7,MN,#REF!,
+M,56,12,YES,,,,,,7,MN,#REF!,
+M,58,12,NO,,,,,,7,MN,#REF!,
+M,69,13,NO,,,,,,7,MN,#REF!,
+M,86,13,NO,,,,,,7,MN,#REF!,
+M,121,13,YES,,,,PSA,,7,MN,#REF!,
+M,124,14,NO,,,,,,7,MN,#REF!,
+M,938,14,NO,,1,,,,7,MN,#REF!,East River Park
+M,64,15,NO,,,,,,7,MN,#REF!,
+M,65,16,NO,,,,,,7,MN,#REF!,
+M,89,16,NO,,,,,,7,MN,#REF!,
+M,93,16,NO,,,,,,7,MN,#REF!,
+T,102,16,,,,Essex St,J-M-Z,,7,T,#REF!,
+M,110,7,NO,,,,,,9,MN,#REF!,
+M,125,1,NO,,,,PSA,,9,MN,#REF!,
+M,160,1,NO,,,,,,9,MN,#REF!,
+M,161,1,NO,,,,,,9,MN,#REF!,
+M,935,1,,,0,,,,9,MN,#REF!,
+M,118,2,NO,,,,,,9,MN,#REF!,
+M,127,2,NO,,,,,,9,MN,#REF!,
+M,159,2,NO,,,,,,9,MN,#REF!,
+M,167,2,YES,,,,,,9,MN,#REF!,
+M,116,3,NO,,,,,,9,MN,#REF!,
+M,117,3,NO,,,,,,9,MN,#REF!,
+M,128,3,NO,,,,,,9,MN,#REF!,
+M,129,3,NO,,,,,,9,MN,#REF!,
+M,158,4,NO,,,,,,9,MN,#REF!,
+M,162,4,NO,,,,,,9,MN,#REF!,
+M,163,4,NO,,,,,,9,MN,#REF!,
+M,164,4,NO,,,,,,9,MN,#REF!,
+M,111,5,NO,,,,,,9,MN,#REF!,
+M,113,5,NO,,,,,,9,MN,#REF!,
+M,130,5,NO,,,,,,9,MN,#REF!,
+M,131,5,NO,,,,,,9,MN,#REF!,
+M,156,6,NO,,,,,,9,MN,#REF!,
+M,157,6,NO,,,,,,9,MN,#REF!,
+M,169,6,NO,,,,,,9,MN,#REF!,
+T,407,6,,,,Astor Pl,6,,9,T,#REF!,
+M,109,7,NO,,,,,,9,MN,#REF!,
+T,230,7,NO,,,Broadway - Lafayette St,B-D-F-M,,9,T,#REF!,
+T,408,7,,,,Bleecker St,6,,9,T,#REF!,
+T,16,8,NO,,,8 St - NYU,N-R,,9,T,#REF!,
+M,154,8,NO,,,,,,9,MN,#REF!,
+M,155,8,YES,,,,,,9,MN,#REF!,
+M,180,14,,,,,,,10,MN,#REF!,
+T,166,15,NO,,,14 St,A-C-E,,10,T,#REF!,
+M,178,15,,,,,,,10,MN,#REF!,
+M,213,15,,,,,,,10,MN,#REF!,
+T,165,16,NO,,,23 St,C-E,,10,T,#REF!,
+M,225,16,NO,,,,,,10,MN,#REF!,
+M,226,16,NO,,,,,,10,MN,#REF!,
+M,234,16,NO,,,,,,10,MN,#REF!,
+M,214,17,NO,,,,,,10,MN,#REF!,
+M,220,17,NO,,,,,,10,MN,#REF!,
+M,237,17,NO,,,,,,10,MN,#REF!,
+M,238,17,NO,,,,,,10,MN,#REF!,
+M,224,18,NO,,,,,,10,MN,#REF!,
+M,239,18,NO,,,,,,10,MN,#REF!,
+M,244,18,NO,,,,,,10,MN,#REF!,
+M,246,19,NO,,,,,,10,MN,#REF!,
+M,285,19,NO,,,,,,10,MN,#REF!,
+M,286,19,NO,,,,,,10,MN,#REF!,
+M,313,19,NO,,,,,,10,MN,#REF!,
+M,315,20,NO,,,,,,10,MN,#REF!,
+M,347,20,NO,,,,,,10,MN,#REF!,
+M,348,20,NO,,,,,,10,MN,#REF!,
+T,115,EOL,NO,,,8 Av,L,1,10,T,#REF!,
+M,210,11,NO,,,,,,13,MN,PS116,
+M,265,11,NO,,,,,,13,MN,PS116,
+M,206,12,NO,,,,,,13,MN,PS116,
+M,209,12,NO,,,,,,13,MN,PS116,
+M,259,12,NO,,,,,,13,MN,PS116,
+M,199,13,NO,,,,,,13,MN,PS116,
+M,200,13,NO,,,,,,13,MN,PS116,
+M,201,13,NO,,,,,,13,MN,PS116,
+M,205,13,NO,,,,,,13,MN,PS116,
+M,197,14,NO,,,,,,13,MN,PS116,
+M,207,14,NO,,,,,,13,MN,PS116,
+M,208,14,NO,,,,,,13,MN,PS116,
+M,192,15,NO,,,,,,13,MN,PS116,
+M,193,15,NO,,,,,,13,MN,PS116,
+M,194,15,NO,,,,,,13,MN,PS116,
+T,15,16,,,,14 St - Union Sq,N-Q-R,,13,T,PS116,
+M,190,16,NO,,,,,,13,MN,PS116,
+T,406,16,,,,14 St - Union Sq,4-5-6,,13,T,PS116,
+M,230,17,NO,,,,,,13,MN,PS116,
+M,231,17,NO,,,,,,13,MN,PS116,
+M,233,17,NO,,,,,,13,MN,PS116,
+M,235,17,NO,,,,,,13,MN,PS116,
+T,319,17,,,,28 St,1,,13,T,PS116,
+M,186,18,NO,,,,,,13,MN,PS116,
+M,218,18,NO,,,,,,13,MN,PS116,
+M,228,18,NO,,,,,,13,MN,PS116,
+T,228,18,,,,23 St,F-M,,13,T,PS116,
+M,179,19,NO,,, ,,,13,MN,PS116,
+M,184,19,NO,,,,,,13,MN,PS116,
+M,187,19,NO,,,,,,13,MN,PS116,
+T,229,19,,,,14 St,F-M,,13,T,PS116,
+M,227,20,NO,,,,,,13,MN,PS116,
+M,229,20,YES,,,,,,13,MN,PS116,
+M,232,20,NO,,,,,,13,MN,PS116,
+M,183,21,NO,,,,,,13,MN,PS116,
+M,188,21,NO,,,,,,13,MN,PS116,
+M,189,21,NO,,,,,,13,MN,PS116,
+M,196,21,NO,,,,,,13,MN,PS116,
+M,288,1,NO,,,,,,14,MN,PS116,
+M,290,1,NO,,,,,,14,MN,PS116,
+M,312,1,NO,,,,,,14,MN,PS116,
+M,314,1,YES,,,,PAPD,,14,MN,PS116,
+M,248,2,NO,,,,,,14,MN,PS116,
+M,280,2,NO,,,,,,14,MN,PS116,
+M,287,2,NO,,,,,,14,MN,PS116,
+M,279,3,NO,,,,,,14,MN,PS116,
+M,281,3,NO,,,,,,14,MN,PS116,
+M,289,3,NO,,,,,,14,MN,PS116,
+M,249,4,NO,,,,,,14,MN,PS116,
+M,251,4,NO,,,,,,14,MN,PS116,
+M,252,4,NO,,,,,,14,MN,PS116,
+M,253,4,NO,,,,,,14,MN,PS116,
+T,163,4,,,,42 St - Port Authority Bus Terminal,A-C-E,,14,T,Times Square Hotel,
+M,316,4,NO,,,,,,14,MN,Times Square Hotel,
+M,275,5,NO,,,,,,14,MN,PS116,
+M,276,5,NO,,,,,,14,MN,PS116,
+M,278,5,NO,,,,,,14,MN,PS116,
+M,319,5,NO,,,,,,14,MN,Times Square Hotel,
+T,226,6,,,,42 St,B-D-F-M,,14,T,PS116,
+M,274,6,NO,,,,,,14,MN,PS116,
+M,291,6,NO,,,,,,14,MN,PS116,
+M,292,6,NO,,,,,,14,MN,PS116,
+M,293,6,NO,,,,,,14,MN,PS116,
+M,254,7,NO,,,,,,14,MN,PS116,
+M,271,7,NO,,,,,,14,MN,PS116,
+M,277,7,NO,,,,,,14,MN,PS116,
+M,320,7,NO,,,,,,14,MN,Times Square Hotel,
+M,294,8,NO,,,,,,14,MN,PS116,
+M,302,8,NO,,,,,,14,MN,PS116,
+T,11,8,,,,Times Sq,N-Q-R,,14,T,Times Square Hotel,
+T,317,8,,,,Times Sq - 42 St,1-2-3,,14,T,Times Square Hotel,
+T,467,8,,,,Times Sq,7,,14,T,Times Square Hotel,
+T,468,8,,,,Times Sq,S,,14,T,Times Square Hotel,
+M,257,9,NO,,,,,,14,MN,PS116,
+M,258,9,NO,,,,,,14,MN,PS116,
+T,403,9,,,,33 St,6,,14,T,PS116,
+M,305,11,YES,,,,,,14,MN,Times Square Hotel,
+M,308,11,NO,,,,,,14,MN,Times Square Hotel,
+M,309,11,NO,,,,,,14,MN,Times Square Hotel,
+M,310,11,NO,,,,,,14,MN,Times Square Hotel,
+T,402,12,,,,Grand Central - 42 St,4-5-6,,14,T,Times Square Hotel,
+T,469,12,,,,Grand Central,S,,14,T,Times Square Hotel,
+T,12,22,,,,34 St - Herald Sq,N-Q-R,,14,T,PS116,
+T,227,22,,,,34 St - Herald Sq,B-D-F,,14,T,PS116,
+T,164,23,,,,34 St - Penn Station,A-C-E,,14,T,PS116,
+T,318,23,,,,34 St - Penn Station,1-2-3,,14,T,PS116,
+M,250,24,YES,,,,,,14,MN,PS116,
+M,272,7,NO,,,,,,17,MN,PS116,
+M,273,8,NO,,,,,,17,MN,PS116,
+M,295,8,NO,,,,,,17,MN,PS116,
+M,269,9,NO,,,,,,17,MN,PS116,
+M,263,10,NO,,,,,,17,MN,PS116,
+M,264,10,NO,,,,,,17,MN,PS116,
+M,266,10,NO,,,,,,17,MN,PS116,
+M,267,10,NO,,,,,,17,MN,PS116,
+M,262,11,NO,,,,,,17,MN,PS116,
+M,260,12,NO,,,,,,17,MN,PS116,
+M,301,12,YES,,,,MTA,,17,MN,Times Square Hotel,
+M,306,12,NO,,,,,,17,MN,Times Square Hotel,
+T,465,12,,,,Grand Central,7,,17,T,Times Square Hotel,
+M,330,13,NO,,,,,,17,MN,Times Square Hotel,
+M,398,13,NO,,,,,,17,MN,Times Square Hotel,
+M,401,13,NO,,,,,,17,MN,Times Square Hotel,
+M,402,13,NO,,,,,,17,MN,Times Square Hotel,
+M,299,15,NO,,,,,,17,MN,Times Square Hotel,
+M,300,15,NO,,, ,,,17,MN,Times Square Hotel,
+M,303,15,NO,,,,,,17,MN,Times Square Hotel,
+M,304,15,NO,,,,,,17,MN,Times Square Hotel,
+M,324,16,NO,,,,,,17,MN,Times Square Hotel,
+M,325,16,NO,,,,,,17,MN,Times Square Hotel,
+M,326,16,NO,,,,,,17,MN,Times Square Hotel,
+M,328,16,NO,,,,,,17,MN,Times Square Hotel,
+M,349,1,NO,,,,,,18,MN,#REF!,
+M,353,1,NO,,,,,,18,MN,#REF!,
+M,354,1,NO,,,,,,18,MN,#REF!,
+M,360,1,NO,,,,,,18,MN,#REF!,
+T,161,2,,,,59 St - Columbus Circle,A-B-C-D,,18,T,#REF!,
+T,315,2,,,,59 St - Columbus Circle,1,,18,T,#REF!,
+M,366,2,NO,,,,,,18,MN,#REF!,
+M,368,2,NO,,,,,,18,MN,#REF!,
+M,385,2,NO,,,,,,18,MN,#REF!,
+M,358,3,NO,,,,,,18,MN,#REF!,
+M,359,3,NO,,,,,,18,MN,#REF!,
+M,364,3,NO,,,,,,18,MN,#REF!,
+M,346,4,NO,,,,,,18,MN,#REF!,
+M,352,4,NO,,,,,,18,MN,#REF!,
+M,342,5,NO,,,,,,18,MN,#REF!,
+M,343,5,NO,,,,,,18,MN,#REF!,
+M,344,5,NO,,,,,,18,MN,#REF!,
+T,9,6,,,,57 St,N-Q-R,,18,T,#REF!,
+M,372,6,NO,,,,,,18,MN,#REF!,
+M,373,6,NO,,,,,,18,MN,#REF!,
+M,374,6,NO,,,,,,18,MN,#REF!,
+M,375,6,NO,,,,,,18,MN,#REF!,
+T,225,7,,,,47-50 St - Rockefeller Ctr,B-D-F-M,,18,T,#REF!,
+M,321,7,NO,,,,,,18,MN,#REF!,
+M,334,7,NO,,,,,,18,MN,#REF!,
+T,224,9,,,,57 St,F,,18,T,#REF!,
+M,338,9,NO,,,,,,18,MN,#REF!,
+M,339,9,NO,,,,,,18,MN,#REF!,
+M,376,9,NO,,,,,,18,MN,#REF!,
+M,378,9,NO,,,,,,18,MN,#REF!,
+T,276,10,,,,5 Av / 53 St,E-M,,18,T,#REF!,
+M,322,10,NO,,,,,,18,MN,#REF!,
+M,331,10,NO,,,,,,18,MN,#REF!,
+M,335,10,NO,,,,,,18,MN,#REF!,
+M,337,10,NO,,,,,,18,MN,#REF!,
+M,323,14,NO,,,,,,18,MN,#REF!,
+M,332,14,NO,,,,,,18,MN,#REF!,
+M,336,14,NO,,,,,,18,MN,#REF!,
+M,380,14,NO,,,,,,18,MN,#REF!,
+M,404,4,NO,,,,,,19,MN,#REF!,
+M,406,4,YES,,,,,,19,MN,#REF!,
+M,407,4,YES,,,,,,19,MN,#REF!,
+M,410,4,NO,,,,,,19,MN,#REF!,
+M,392,5,NO,,,,,,19,MN,#REF!,
+M,394,5,NO,,,,,,19,MN,#REF!,
+M,416,5,NO,,,,,,19,MN,#REF!,
+T,7,6,NO,,,Lexington Av / 59 St,N-Q-R,,19,T,#REF!,
+T,223,6,NO,,,Lexington Av / 63 St,F,,19,T,#REF!,
+T,400,6,NO,,,59 St,4-5-6,,19,T,#REF!,
+M,414,6,NO,,,,,,19,MN,#REF!,
+T,399,7,NO,,,68 St - Hunter College,6,,19,T,#REF!,
+M,417,7,YES,,,,,,19,MN,#REF!,
+M,419,7,NO,,,,,,19,MN,#REF!,
+M,421,7,NO,,,,,,19,MN,#REF!,
+M,418,8,NO,,,,,,19,MN,#REF!,
+M,420,8,NO,,,,,,19,MN,#REF!,
+M,435,8,NO,,,,,,19,MN,#REF!,
+M,436,8,NO,,,,,,19,MN,#REF!,
+M,437,9,NO,,,,,,19,MN,#REF!,
+M,438,9,NO,,,,,,19,MN,#REF!,
+M,439,9,NO,,,,,,19,MN,#REF!,
+M,440,9,NO,,,,,,19,MN,#REF!,
+M,412,10,NO,,,,,,19,MN,#REF!,
+M,424,10,NO,,,,,,19,MN,#REF!,
+M,426,10,NO,,,,,,19,MN,#REF!,
+M,427,10,NO,,,,,,19,MN,#REF!,
+M,432,11,NO,,,,,,19,MN,#REF!,
+M,443,11,YES,,,,,,19,MN,#REF!,
+M,449,11,NO,,,,,,19,MN,#REF!,
+M,460,11,YES,,,,,,19,MN,#REF!,
+M,465,11,YES,,,,,,19,MN,#REF!,
+M,430,12,NO,,,,,,19,MN,#REF!,
+M,442,12,NO,,,,,,19,MN,#REF!,
+M,444,12,NO,,,,,,19,MN,#REF!,
+M,448,12,NO,,,,,,19,MN,#REF!,
+M,453,13,NO,,,,,,19,MN,#REF!,
+M,456,13,YES,,,,,,19,MN,#REF!,
+M,457,13,YES,,,,,,19,MN,#REF!,
+M,459,13,NO,,,,,,19,MN,#REF!,
+M,494,14,NO,,,,,,19,MN,#REF!,
+M,495,14,NO,,,,,,19,MN,#REF!,
+M,497,14,NO,,,,,,19,MN,#REF!,
+M,485,15,NO,,,,,,19,MN,#REF!,
+M,486,15,NO,,,,,,19,MN,#REF!,
+M,487,15,YES,,,,,,19,MN,#REF!,
+M,489,15,NO,,,,,,19,MN,#REF!,
+M,488,16,NO,,,,,,19,MN,#REF!,
+M,490,16,NO,,,,,,19,MN,#REF!,
+M,498,16,NO,,,,,,19,MN,#REF!,
+M,500,16,NO,,,,,,19,MN,#REF!,
+M,499,17,NO,,,,,,19,MN,#REF!,
+M,503,17,NO,,,,,,19,MN,#REF!,
+M,505,17,NO,,,,,,19,MN,#REF!,
+M,560,17,NO,,,,,,19,MN,#REF!,
+T,314,1,NO,,,66 St - Lincoln Center,1,,20,T,#REF!,
+M,383,1,NO,,,,,,20,MN,#REF!,
+M,384,1,NO,,,,,,20,MN,#REF!,
+M,386,1,NO,,,,,,20,MN,#REF!,
+M,390,1,NO,,,,,,20,MN,#REF!,
+M,388,2,YES,,,,,,20,MN,#REF!,
+M,389,2,NO,,,,,,20,MN,#REF!,
+M,468,2,NO,,,,,,20,MN,#REF!,
+M,391,3,NO,,,,,,20,MN,#REF!,
+M,469,3,NO,,,,,,20,MN,#REF!,
+M,470,3,NO,,,,,,20,MN,#REF!,
+M,471,3,NO,,,,,,20,MN,#REF!,
+M,472,4,YES,,,,,,20,MN,#REF!,
+M,475,4,NO,,,,,,20,MN,#REF!,
+M,478,4,NO,,,,,,20,MN,#REF!,
+M,479,4,YES,,,,,,20,MN,#REF!,
+M,481,5,NO,,,,,,20,MN,#REF!,
+M,482,5,NO,,,,,,20,MN,#REF!,
+M,483,5,NO,,,,,,20,MN,#REF!,
+M,509,6,NO,,,,,,20,MN,#REF!,
+M,511,6,NO,,,,,,20,MN,#REF!,
+M,512,6,NO,,,,,,20,MN,#REF!,
+M,919,HTR,NO,1,,,,,20,MN,#REF!,
+M,878,1,YES,,1,,,,22,MN,#REF!,Central Park
+M,881,1,YES,,1,,,,22,MN,#REF!,Central Park
+M,889,1,YES,,1,,,,22,MN,#REF!,Central Park
+M,894,2,YES,,1,,,,22,MN,#REF!,Central Park
+M,900,2,YES,,1,,,,22,MN,#REF!,Central Park
+M,905,2,YES,,1,,,,22,MN,#REF!,Central Park
+M,915,2,YES,,1,,,,22,MN,#REF!,Central Park
+T,156,3,NO,,,103 St,B-C,,22,T,#REF!,
+T,158,3,NO,,,86 St,B-C,,22,T,#REF!,
+T,159,3,NO,,,81 St,B-C,,22,T,#REF!,
+T,160,3,NO,,,72 St,B-C,,22,T,#REF!,
+T,8,5,YES,,,5 Av / 59 St,N-Q-R,,22,T,#REF!,
+T,395,18,NO,,,103 St,6,,23,T,#REF!,
+M,569,18,NO,,,,,,23,MN,#REF!,
+M,570,18,YES,,,,,,23,MN,#REF!,
+M,571,18,YES,,,,,,23,MN,#REF!,
+M,572,18,YES,,,,,,23,MN,#REF!,
+M,554,19,YES,,,,,,23,MN,#REF!,
+M,564,19,NO,,,,,,23,MN,#REF!,
+M,566,19,YES,,,,,,23,MN,#REF!,
+M,567,19,YES,,,,,,23,MN,#REF!,
+M,557,20,NO,,,,,,23,MN,#REF!,
+M,558,20,NO,,,,,,23,MN,#REF!,
+M,559,20,YES,,,,,,23,MN,#REF!,
+M,588,21,NO,,,,,,23,MN,#REF!,
+M,592,21,YES,,,,,,23,MN,#REF!,
+M,593,21,YES,,,,,,23,MN,#REF!,
+M,586,22,NO,,,,,,23,MN,#REF!,
+M,590,22,NO,,,,,,23,MN,#REF!,
+M,596,22,NO,,,,,,23,MN,#REF!,
+M,578,23,NO,,,,,,23,MN,#REF!,
+M,580,23,YES,,,,,,23,MN,#REF!,
+M,583,23,YES,,,,,,23,MN,#REF!,
+T,311,5,NO,,,86 St,1,,24,T,#REF!,
+M,514,5,NO,,,,,,24,MN,#REF!,
+T,157,7,NO,,,96 St,B-C,,24,T,#REF!,
+M,515,7,NO,,,,,,24,MN,#REF!,
+M,516,7,YES,,,,,,24,MN,#REF!,
+M,522,7,NO,,,,,,24,MN,#REF!,
+M,523,7,NO,,,,,,24,MN,#REF!,
+M,527,8,NO,,,,,,24,MN,#REF!,
+M,528,8,NO,,,,,,24,MN,#REF!,
+M,531,8,NO,,,,,,24,MN,#REF!,
+M,537,8,YES,,,,,,24,MN,#REF!,
+M,532,9,YES,,,,,,24,MN,#REF!,
+M,538,9,YES,,,,,,24,MN,#REF!,
+M,542,9,NO,,,,,,24,MN,#REF!,
+M,543,9,NO,,,,,,24,MN,#REF!,
+M,539,10,NO,,,,,,24,MN,#REF!,
+M,544,10,NO,,,,,,24,MN,#REF!,
+M,546,10,NO,,,,,,24,MN,#REF!,
+M,853,16,YES,,1,,,,24,MN,#REF!,Riverside Park
+M,854,16,YES,,1,,,,24,MN,#REF!,Riverside Park
+M,857,16,YES,,1,,,,24,MN,#REF!,Riverside Park
+M,855,HTR,YES,1,,,,,24,MN,#REF!,
+M,597,7%,NO,,,,,,25,MN,#REF!,
+M,641,4,NO,,,,,,25,MN,#REF!,
+M,648,4,NO,,,,,,25,MN,#REF!,
+M,649,4,NO,,,,,,25,MN,#REF!,
+M,658,4,NO,,,,,,25,MN,#REF!,
+M,654,6,NO,,,,,,25,MN,#REF!,
+M,656,6,NO,,,,,,25,MN,#REF!,
+M,659,6,YES,,,,,,25,MN,#REF!,
+M,660,6,YES,,,,,,25,MN,#REF!,
+M,634,7,NO,,,,,,25,MN,#REF!,
+M,636,7,NO,,,,,,25,MN,#REF!,
+M,640,7,NO,,,,,,25,MN,#REF!,
+M,633,8,NO,,,,,,25,MN,#REF!,
+M,639,8,NO,,,,,,25,MN,#REF!,
+M,650,8,NO,,,,,,25,MN,#REF!,
+M,651,8,NO,,,,,,25,MN,#REF!,
+M,657,9,NO,,,,,,25,MN,#REF!,
+M,663,9,NO,,,,,,25,MN,#REF!,
+M,664,9,NO,,,,,,25,MN,#REF!,
+M,676,9,YES,,,,,,25,MN,#REF!,
+M,677,9,YES,,,,,,25,MN,#REF!,
+M,678,10,NO,,,,,,25,MN,#REF!,
+M,653,HTR,YES,1,,,,,25,MN,#REF!,
+M,661,HTR,NO,1,,,,,25,MN,#REF!,
+M,600,10,NO,,,,,,26,MN,#REF!,
+M,868,11,NO,,,,,,26,MN,#REF!,
+M,870,11,NO,,1,,,,26,MN,#REF!,Riverside Park
+M,871,11,NO,,1,,,,26,MN,#REF!,Riverside Park
+T,307,12,NO,,,116 St - Columbia University,1,,26,T,#REF!,
+M,606,12,NO,,,,,,26,MN,#REF!,
+M,607,12,NO,,,,,,26,MN,#REF!,
+M,612,12,NO,,,,,,26,MN,#REF!,
+M,689,12,NO,,,,,,26,MN,#REF!,
+T,153,13,NO,,,125 St,A-B-C-D,,26,T,#REF!,
+M,615,13,NO,,,,,,26,MN,#REF!,
+M,693,13,NO,,,,,,26,MN,#REF!,
+M,694,13,NO,,,,,,26,MN,#REF!,
+M,609,14,NO,,,,,,26,MN,#REF!,
+M,614,14,NO,,,,,,26,MN,#REF!,
+M,619,14,NO,,,,,,26,MN,#REF!,
+M,603,15,NO,,,,,,26,MN,#REF!,
+M,605,15,NO,,,,,,26,MN,#REF!,
+M,608,15,NO,,,,,,26,MN,#REF!,
+M,942,HTR,NO,1,,,,,26,MN,#REF!,
+M,620,1,YES,,,,,,28,MN,#REF!,
+M,621,1,YES,,,,,,28,MN,#REF!,
+M,622,1,YES,,,,,,28,MN,#REF!,
+M,644,1,YES,,,,,,28,MN,#REF!,
+M,627,2,YES,,,,,,28,MN,#REF!,
+M,629,2,YES,,,,,,28,MN,#REF!,
+M,630,2,YES,,,,,,28,MN,#REF!,
+M,631,2,YES,,,,,,28,MN,#REF!,
+M,617,3,YES,,,,,,28,MN,#REF!,
+M,643,3,YES,,,,,,28,MN,#REF!,
+M,646,3,YES,,,,,,28,MN,#REF!,
+M,666,3,YES,,,,,,28,MN,#REF!,
+M,667,3,YES,,,,,,28,MN,#REF!,
+M,710,1,YES,,,,,,30,MN,#REF!,
+M,712,1,YES,,,,,,30,MN,#REF!,
+M,719,1,YES,,,,,,30,MN,#REF!,
+T,150,1,NO,,,155 St,C,,30,T,#REF!,
+T,151,1,NO,,,145 St,A-B-C-D,,30,T,#REF!,
+M,690,2,YES,,,,,,30,MN,#REF!,
+M,717,2,YES,,,,,,30,MN,#REF!,
+M,744,2,YES,,,,,,30,MN,#REF!,
+T,305,2,NO,,,137 St - City College,1,,30,T,#REF!,
+M,872,3,YES,,1,,,,30,MN,#REF!,Riverside Park
+M,874,3,YES,,1,,,,30,MN,#REF!,Riverside Park
+M,875,3,YES,,1,,,,30,MN,#REF!,Riverside Park
+M,673,5,YES,,,,,,32,MN,#REF!,
+M,681,5,NO,,,,,,32,MN,#REF!,
+M,675,10,NO,,,,,,32,MN,#REF!,
+M,700,10,NO,,,,,,32,MN,#REF!,
+M,680,11,NO,,,,,,32,MN,#REF!,
+M,695,11,NO,,,,,,32,MN,#REF!,
+M,699,11,NO,,,,,,32,MN,#REF!,
+M,698,12,NO,,,,,,32,MN,#REF!,
+M,702,12,YES,,,,,,32,MN,#REF!,
+M,703,12,NO,,,,,,32,MN,#REF!,
+M,707,12,YES,,,,,,32,MN,#REF!,
+M,722,13,YES,,,,,,32,MN,#REF!,
+M,724,13,YES,,,,,,32,MN,#REF!,
+M,725,13,YES,,,,,,32,MN,#REF!,
+M,726,13,NO,,,,,,32,MN,#REF!,
+M,729,13,YES,,,,,,32,MN,#REF!,
+T,437,,NO,,,145 St,3,,32,T,#REF!,
+M,741,4,NO,,,,,,33,MN,#REF!,
+M,747,4,NO,,,,,,33,MN,#REF!,
+M,751,4,NO,,,,,,33,MN,#REF!,
+M,752,4,NO,,,,,,33,MN,#REF!,
+M,756,5,NO,,,,,,33,MN,#REF!,
+T,148,5,NO,,,168 St,A-C,,33,T,#REF!,
+T,302,5,NO,,,168 St,1,,33,T,#REF!,
+M,768,6,NO,,,,,,33,MN,#REF!,
+M,773,6,NO,,,,,,33,MN,#REF!,
+M,922,6,YES,,1,,,,33,MN,#REF!,Highbridge Park
+M,764,7,NO,,,,,,33,MN,#REF!,
+M,766,7,NO,,,,,,33,MN,#REF!,
+M,769,7,NO,,,,,,33,MN,#REF!,
+T,147,7,NO,,,175 St,A,,33,T,#REF!,
+M,779,HRT,NO,,,,,,33,MN,#REF!,
+M,948,HTR,YES,1,,,,,33,MN,#REF!,
+T,301,8,NO,,,181 St,1,,34,T,PS 128,
+M,786,8,NO,,,,,,34,MN,#REF!,
+M,787,8,NO,,,,,,34,MN,#REF!,
+M,789,8,NO,,,,,,34,MN,#REF!,
+M,784,9,NO,,,,,,34,MN,#REF!,
+M,785,9,NO,,,,,,34,MN,#REF!,
+M,792,9,NO,,,,,,34,MN,#REF!,
+M,795,10,NO,,,,,,34,MN,#REF!,
+M,798,10,NO,,,,,,34,MN,#REF!,
+M,807,10,NO,,,,,,34,MN,#REF!,
+T,299,10,NO,,,Dyckman St,1,,34,T,#REF!,
+T,300,10,NO,,,191 St,1,,34,T,#REF!,
+M,818,11,NO,,,,,,34,MN,#REF!,
+M,830,11,NO,,,,,,34,MN,#REF!,
+M,831,11,NO,,,,,,34,MN,#REF!,
+T,297,11,NO,,,215 St,1,,34,T,#REF!,
+T,298,11,NO,,,207 St,1,,34,T,#REF!,
+M,820,12,NO,,,,,,34,MN,#REF!,
+M,821,12,NO,,,,,,34,MN,#REF!,
+M,822,12,NO,,,,,,34,MN,#REF!,
+M,826,12,NO,,,,,,34,MN,#REF!,
+T,143,EOL,NO,,,Inwood - 207 St,A,1,34,T,#REF!,
+M,782,HTR,NO,,,,,,34,MN,#REF!,
+M,799,HTR,NO,,,,,,34,MN,#REF!,
+M,812,HTR,NO,,,,,,34,MN,#REF!,
+M,925,HTR,NO,1,,,,,34,MN,#REF!,
+M,926,HTR,NO,1,,,,,34,MN,#REF!,
+M,927,HTR,NO,1,,,,,34,MN,#REF!,
+M,929,HTR,NO,1,,,,,34,MN,#REF!,
+M,933,HTR,NO,1,,,,,34,MN,#REF!,
+M,944,HTR,NO,1,,,,,34,MN,#REF!,
+M,950,HTR,NO,1,,,,,34,MN,#REF!,
+S,211,18,,,,,,,122,South Richmond HS
+S,214,16,,,,,,,122,South Richmond HS
+S,216,16,,,,,,,122,South Richmond HS
+S,219,18,,,,,,,122,South Richmond HS
+S,237,15,,,,,,,122,South Richmond HS
+S,244,16,,,,,,,122,South Richmond HS
+S,251,14,,,,,,,122,South Richmond HS
+S,253,14,,,,,,,122,South Richmond HS
+S,257,17,,,,,,,122,South Richmond HS
+S,259,17,,,,,,,122,South Richmond HS
+S,288,12,,,,,,,122,South Richmond HS
+S,291,12,,,,,,,122,South Richmond HS
+S,312,11,,,,,,,122,South Richmond HS
+S,316,11,,,,,,,122,South Richmond HS
+S,325,11,,,,,,,122,South Richmond HS
+S,338,10,,,,,,,122,South Richmond HS
+S,352,10,,,,,,,122,South Richmond HS
+S,369,8,,,,,,,122,South Richmond HS
+S,370,8,,,,,,,123,South Richmond HS
+S,378,8,,,,,,,122,South Richmond HS
+S,393,10,,,,,,,122,South Richmond HS
+S,406,9,,,,,,,123,South Richmond HS
+S,411,9,,,,,,,123,South Richmond HS
+S,414,9,,,,,,,123,South Richmond HS
+S,422,7,,,,,,,123,South Richmond HS
+S,433,7,,,,,,,123,South Richmond HS
+S,446,7,,,,,,,123,South Richmond HS
+S,459,6,,,,,,,123,South Richmond HS
+S,478,6,,,,,,,123,South Richmond HS
+S,485,6,,,,,,,123,South Richmond HS
+S,512,4,,,,,,,123,South Richmond HS
+S,520,6,,,,,,,123,South Richmond HS
+S,528,,,1,,,,,123,South Richmond HS
+S,529,5,,,,,,,123,South Richmond HS
+S,538,5,,,,,,,123,South Richmond HS
+S,544,5,,,,,,,123,South Richmond HS
+S,551,4,,,,,,,123,South Richmond HS
+S,555,4,,,,,,,123,South Richmond HS
+S,556,3,,,,,,,123,South Richmond HS
+S,580,1,,,,,,,123,South Richmond HS
+S,583,1,,,,,,,123,South Richmond HS
+S,588,1,,,,,,,123,South Richmond HS
+S,627,1,,,,,,,123,South Richmond HS
+S,634,13,,,,,,,122,South Richmond HS
+S,638,14,,,,,,,122,South Richmond HS
+S,645,15,,,,,,,122,South Richmond HS
+S,669,13,,,,,,,122,South Richmond HS
+S,674,13,,,,,,,122,South Richmond HS
+S,680,14,,,,,,,122,South Richmond HS
+S,685,15,,,,,,,122,South Richmond HS
+S,686,15,,,,,,,122,South Richmond HS
+S,708,2,,,,,,,123,South Richmond HS
+S,711,2,,,,,,,123,South Richmond HS
+S,734,3,,,,,,,123,South Richmond HS
+S,735,9,,,,,,,123,South Richmond HS
+S,752,16,,,,,,,122,South Richmond HS
+S,775,12,,,,,,,122,South Richmond HS
+S,793,11,,,,,,,122,South Richmond HS
+S,867,,,1,,,,,123,South Richmond HS
+S,1,1,,,,,,,121,Temple Emanuel
+S,2,1,,,,,,,121,Temple Emanuel
+S,3,1,,,,,,,121,Temple Emanuel
+S,22,4,,,,,,,121,Temple Emanuel
+S,25,1,,,,,,,121,Temple Emanuel
+S,28,4,,,,,,,121,Temple Emanuel
+S,42,4,,,,,,,121,Temple Emanuel
+S,52,6,,,,,,,120,Temple Emanuel
+S,54,6,,,,,,,120,Temple Emanuel
+S,60,8,Y,,,,,,120,Temple Emanuel
+S,68,10,,,,,,,120,Temple Emanuel
+S,74,12,,,,,,,120,Temple Emanuel
+S,79,6,,,,,,,120,Temple Emanuel
+S,81,6,,,,,,,120,Temple Emanuel
+S,91,4,,,,,,,120,Temple Emanuel
+S,96,2,,,,,,,121,Temple Emanuel
+S,105,4,,,,,,,120,Temple Emanuel
+S,117,2,,,,,,,121,Temple Emanuel
+S,130,5,,,,,,,121,Temple Emanuel
+S,142,5,,,,,,,121,Temple Emanuel
+S,152,2,,,,,,,121,Temple Emanuel
+S,161,3,,,,,,,121,Temple Emanuel
+S,162,5,,,,,,,121,Temple Emanuel
+S,186,3,,,,,,,121,Temple Emanuel
+S,195,3,,,,,,,121,Temple Emanuel
+S,208,12,,,,,,,120,Temple Emanuel
+S,593,8,Y,,,,,,120,Temple Emanuel
+S,594,8,,,,,,,120,Temple Emanuel
+S,598,8,,,,,,,120,Temple Emanuel
+S,602,7,,,,,,,120,Temple Emanuel
+S,728,,,1,,,,,121,Temple Emanuel
+S,783,12,,,,,,,120,Temple Emanuel
+S,787,7,,,,,,,120,Temple Emanuel
+S,805,9,,,,,,,120,Temple Emanuel
+S,808,11,,,,,,,120,Temple Emanuel
+S,809,10,,,,,,,120,Temple Emanuel
+S,830,11,,,,,,,120,Temple Emanuel
+S,831,11,,,,,,,120,Temple Emanuel
+S,844,7,,,,,,,120,Temple Emanuel
+S,845,9,,,,,,,120,Temple Emanuel
+S,851,,,1,,,,,121,Temple Emanuel
+Q,2217,1,N,,,,,,100,PS65
+Q,2227,1,N,,,,,,100,PS65
+Q,2306,1,N,,,,,,100,PS65
+Q,2300,2,Y,,,,,,100,PS65
+T,200,2,Y,,,Beach 90 St,A-S,,100,PS65
+T,204,2,Y,,,Beach 67 St,A,,100,PS65
+Q,2279,HTR,N,1,Y,,,,100,PS65
+T,205,2,N,,,Beach 60 St,A,,101,PS65
+Q,2257,3,Y,,,,,,101,PS65
+Q,2261,3,Y,,,,,,101,PS65
+T,206,3,Y,,,Beach 44 St,A,,101,PS65
+T,207,3,N,,,Beach 36 St,A,,101,PS65
+Q,2176,4,N,,,,,,101,PS65
+Q,2187,4,N,,,,,,101,PS65
+Q,2270,4,N,,,,,,101,PS65
+Q,2175,HTR,Y,1,Y,,,,101,PS65
+Q,410,9,N,,,,,,102,PS65
+Q,415,9,N,,,,,,102,PS65
+Q,420,9,N,,,,,,102,PS65
+Q,421,9,N,,,,,,102,PS65
+Q,524,10,N,,,,,,102,PS65
+Q,567,10,N,,,,,,102,PS65
+T,84,10,N,,,85 St - Forest Pky,J,,102,PS65
+Q,541,11,N,,,,,,102,PS65
+Q,543,11,N,,,,,,102,PS65
+T,83,11,N,,,Woodhaven Blvd,J-Z,,102,PS65
+Q,381,12,N,,,,,,102,PS65
+Q,559,12,N,,,,,,102,PS65
+Q,1333,13,N,,,,,,102,PS65
+Q,1344,13,N,,,,,,102,PS65
+T,258,13,N,,,Briarwood / Van Wyck Blvd,E-F,,102,PS65
+Q,583,14,N,,,,,,102,PS65
+Q,595,14,N,,,,,,102,PS65
+Q,1348,14,N,,,,,,102,PS65
+Q,2349,14,N,,1,,,,102,PS65
+Q,554,15,N,,,,,,102,PS65
+Q,561,15,N,,,,,,102,PS65
+Q,581,15,N,,,,,,102,PS65
+Q,1295,1,Y,,,,,,103,York
+Q,1304,1,Y,,,,,,103,York
+Q,1313,1,Y,,,,,,103,York
+Q,1328,1,Y,,,,,,103,York
+Q,1309,2,N,,,,,,103,York
+Q,1311,2,N,,,,,,103,York
+Q,1312,2,N,,,,,,103,York
+Q,1316,2,N,,,,,,103,York
+Q,1317,3,N,,,,,,103,York
+Q,1336,3,N,,,,,,103,York
+Q,1365,3,N,,,,,,103,York
+T,256,3,N,,,Parsons Blvd,F,,103,York
+Q,1368,4,N,,,,,,103,York
+Q,1384,4,N,,,,,,103,York
+Q,1387,4,N,,,,,,103,York
+Q,21,9,N,,,,,,103,York
+T,278,EOL,N,,,Jamaica Center - Parsons Archer,E-J-Z,1,103,York
+Q,600,1,Yes,,,,,,104,PS139
+Q,619,1,Yes,,,,,,104,PS139
+Q,620,1,Yes,,,,,,104,PS139
+Q,631,2,Yes,,,,,,104,PS139
+Q,632,2,Yes,,,,,,104,PS139
+T,109,2,No,,,Fresh Pond Rd,M,,104,PS139
+Q,627,3,No,,,,,,104,PS139
+Q,668,3,yes,,,,,,104,PS139
+Q,940,3,No,,,,,,104,PS139
+Q,640,4,No,,,,,,104,PS139
+Q,910,4,No,,,,,,104,PS139
+Q,978,4,No,,,,,,104,PS139
+Q,642,5,No,,,,,,104,PS139
+Q,966,5,Yes,,,,,,104,PS139
+Q,986,5,yes,,,,,,104,PS139
+Q,970,6,No,,,,,,104,PS139
+Q,974,6,No,,,,,,104,PS139
+Q,975,6,No,,,,,,104,PS139
+Q,105,7,N,,,,,,105,York
+Q,133,7,N,,,,,,105,York
+Q,134,7,N,,,,,,105,York
+Q,147,7,N,,,,,,105,York
+Q,114,8,N,,,,,,105,York
+Q,142,8,N,,,,,,105,York
+Q,190,8,N,,,,,,105,York
+Q,211,8,N,,,,,,105,York
+Q,59,9,N,,,,,,105,York
+Q,72,9,N,,,,,,105,York
+Q,1438,10,N,,,,,,105,York
+Q,1664,10,N,,,,,,105,York
+Q,1665,HTR,N,1,,,,,105,York
+Q,467,5,Y,,,,,,106,PS65
+Q,474,5,N,,,,,,106,PS65
+Q,477,5,N,,,,,,106,PS65
+Q,484,5,Y,,,,,,106,PS65
+Q,486,5,Y,,,,,,106,PS65
+Q,286,6,Y,,,,,,106,PS65
+Q,288,6,Y,,,,,,106,PS65
+Q,308,6,Y,,,,,,106,PS65
+T,197,6,Y,,,Aqueduct - North Conduit Av,A,,106,PS65
+Q,424,7,Y,,,,,,106,PS65
+T,190,7,Y,,,80 St,A,,106,PS65
+T,192,7,Y,,,Rockaway Blvd,A,,106,PS65
+Q,360,8,N,,,,,,106,PS65
+Q,368,8,Y,,,,,,106,PS65
+Q,401,8,Y,,,,,,106,PS65
+T,193,8,N,,,104 St,A,,106,PS65
+Q,1447,8,N,,,,,,107,PS20
+Q,1459,8,N,,,,,,107,PS20
+Q,1352,9,N,,,,,,107,PS20
+Q,1360,9,N,,,,,,107,PS20
+Q,1377,9,N,,,,,,107,PS20
+Q,1462,10,N,,,,,,107,PS20
+Q,1493,10,N,,,,,,107,PS20
+Q,1535,10,N,,,,,,107,PS20
+Q,1469,11,N,,,,,,107,PS20
+Q,1498,11,N,,,,,,107,PS20
+Q,1499,11,N,,,,,,107,PS20
+Q,1473,12,N,,,,,,107,PS20
+Q,1485,12,N,,,,,,107,PS20
+Q,1486,12,N,,,,,,107,PS20
+Q,1508,13,N,,,,,,107,PS20
+Q,1509,13,N,,,,,,107,PS20
+Q,1545,13,N,,,,,,107,PS20
+Q,681,4,No,,,,,,108,LaGuardia
+Q,690,4,No,,,,,,108,LaGuardia
+Q,930,5,No,,,,,,108,LaGuardia
+Q,931,5,No,,,,,,108,LaGuardia
+Q,1007,5,No,,,,,,108,LaGuardia
+Q,849,6,No,,,,,,108,LaGuardia
+T,269,6,No,,,Northern Blvd,M-R,,108,LaGuardia
+Q,791,7,No,,,,,,108,LaGuardia
+Q,813,7,No,,,,,,108,LaGuardia
+Q,711,8,No,,,,,,108,LaGuardia
+Q,713,8,No,,,,,,108,LaGuardia
+Q,714,8,No,,,,,,108,LaGuardia
+Q,729,8,No,,,,,,108,LaGuardia
+Q,753,9,No,,,,,,108,LaGuardia
+T,460,9,No,,,33 St - Rawson St,7,,108,LaGuardia
+T,461,9,No,,,Queensboro Plz,7-N-Q,,108,LaGuardia
+Q,748,10,No,,,,,,108,LaGuardia
+T,274,10,No,,,Court Sq - 23 St,E-M,,108,LaGuardia
+T,281,EOL,No,,,Court Sq,G,1,108,LaGuardia
+Q,1684,1,Yes,,,,,,109,PS20
+Q,1707,1,Yes,,,,,,109,PS20
+Q,1827,1,Yes,,,,,,109,PS20
+Q,1704,2,Yes,,,,,,109,PS20
+Q,1828,2,Yes,,,,,,109,PS20
+Q,2065,3,No,,,,,,109,PS20
+Q,2066,3,No,,,,,,109,PS20
+Q,2100,3,No,,,,,,109,PS20
+Q,2104,3,No,,,,,,109,PS20
+Q,1698,4,No,,,,,,109,PS20
+Q,1702,4,No,,,,,,109,PS20
+Q,1830,4,No,,,,,,109,PS20
+Q,1832,4,No,,,,,,109,PS20
+Q,1837,5,No,,,,,,109,PS20
+Q,1838,5,No,,,,,,109,PS20
+Q,1876,5,No,,,,,,109,PS20
+Q,1991,6,No,,,,,,109,PS20
+Q,1999,6,No,,,,,,109,PS20
+T,447,EOL,yes,,,Flushing - Main St,7,1,109,PS20
+Q,2313,HTR,Yes,1,,,,,109,PS20
+Q,2375,HTR,yes,1,,,,,109,PS20
+Q,2379,HTR,yes,1,,,,,109,PS20
+Q,1031,7,Yes,,,,,,110,PS139
+Q,1032,7,Yes,,,,,,110,PS139
+Q,1082,7,yes,,,,,,110,PS139
+T,267,7,No,,,Jackson Hts - Roosevelt Av,E-F-M-R,,110,PS139
+Q,1012,8,No,,,,,,110,PS139
+Q,1188,8,yes,,,,,,110,PS139
+Q,1083,9,No,,,,,,110,PS139
+Q,1084,9,No,,, ,,,110,PS139
+Q,1085,10,No,,,,,,110,PS139
+Q,1089,10,No,,,,,,110,PS139
+T,266,10,No,,,Elmhurst Av,M-R, ,110,PS139
+Q,1198,11,Yes,,,,,,110,PS139
+Q,1217,11,m,,,,,,110,PS139
+Q,1223,11,yes,,,,,,110,PS139
+Q,1218,12,m,,,,,,110,PS139
+Q,1219,12,m,,,,,,110,PS139
+Q,2122,HTR,No,1,,,,,110,PS139
+Q,2326,HTR,No,1,,,,,110,PS139
+Q,2327,HTR,No,1,,,,,110,PS139
+Q,2334,HTR,No,1,YES,,,,110,PS139
+Q,2364,HTR,No,1,YES,,,,110,PS139
+Q,1855,5,No,,,,,,111,PS20
+Q,1816,7,No,,,,,,111,PS20
+Q,2035,7,No,,,,,,111,PS20
+Q,2049,7,No,,,,,,111,PS20
+Q,1178,12,No,,,,,,112,PS139
+Q,1156,13,No,,,,,,112,PS139
+Q,1157,13,No,,,,,,112,PS139
+Q,1185,13,No,,,,,,112,PS139
+Q,1170,14,No,,,,,,112,PS139
+Q,1184,14,No,,,,,,112,PS139
+T,262,14,No,,,67 Av,M-R,,112,PS139
+Q,1143,15,No,,,,,,112,PS139
+Q,1146,15,No, ,,,,,112,PS139
+T,261,15,No,,,Forest Hills - 71 Av,E-F-M-R,,112,PS139
+Q,1105,16,No,,,,,,112,PS139
+Q,1128,16,No,,,,,,112,PS139
+Q,1130,16,No,,,,,,112,PS139
+Q,1114,17,No,,,,,,112,PS139
+Q,1135,17,No,,,,,,112,PS139
+Q,344,5,Y,,,,,,113,York
+Q,1332,5,Y,,,,,,113,York
+Q,235,6,Y,,,,,,113,York
+Q,338,6,Y,,,,,,113,York
+Q,1272,6,Y,,,,,,113,York
+Q,822,6,No,,,,,,114,LaGuardia
+T,221,10,No,,,21 St - Queensbridge,F,,114,LaGuardia
+Q,762,11,No,,,,,,114,LaGuardia
+Q,779,11,Yes,,,,,,114,LaGuardia
+Q,783,11,Yes,,,,,,114,LaGuardia
+T,5,11,No,,,36 Av,N-Q,,114,LaGuardia
+Q,804,12,No,,,,,,114,LaGuardia
+Q,830,12,Yes,,,,,,114,LaGuardia
+Q,855,12,No,,,,,,114,LaGuardia
+Q,806,13,No,,,,,,114,LaGuardia
+Q,808,13,No,,,,,,114,LaGuardia
+Q,833,13,No,,,,,,114,LaGuardia
+Q,871,14,No,,,,,,114,LaGuardia
+T,1,14,No,,,Astoria - Ditmars Blvd,N-Q,,114,LaGuardia
+T,2,14,No,,,Astoria Blvd,N-Q,,114,LaGuardia
+T,3,14,No,,,30 Av,N-Q,,114,LaGuardia
+Q,811,17,No,,,,,,114,LaGuardia
+T,270,17,No,,,46 St,M-R,,114,LaGuardia
+T,271,17,No,,,Steinway St,M-R,,114,LaGuardia
+Q,899,HTR,No,1,,,,,114,LaGuardia
+Q,1212,1,yes,,,,,,115,LaGuardia
+Q,1249,1,No,,,,,,115,LaGuardia
+T,449,1,No,,,111 St,7,,115,LaGuardia
+Q,1062,2,Yes,,,,,,115,LaGuardia
+Q,1066,2,No,,,,,,115,LaGuardia
+T,452,2,yes,,,90 St - Elmhurst Av,7,,115,LaGuardia
+T,453,2,No,,,82 St - Jackson Hts,7,,115,LaGuardia
+Q,1058,3,Yes,,,,,,115,LaGuardia
+Q,1059,3,No,,,,,,115,LaGuardia
+Q,1060,3,Yes,,,,,,115,LaGuardia
+Q,1039,15,No,,,,,,115,LaGuardia
+Q,1048,15,No,,,,,,115,LaGuardia
+Q,1095,16,No,,,,,,115,LaGuardia
+Q,1096,16,yes,,,,,,115,LaGuardia
+Q,1255,16,yes,,,,,,115,LaGuardia
+Q,2312,HTR,No,1,,,,,115,LaGuardia
